@@ -1,0 +1,42 @@
+[2026-05-21 10.36.34] git add .
+C:\Users\Alvin Meko\AppData\Local\Language Data
+OUTPUT:
+
+ERROR:
+
+----------------------
+[2026-05-21 10.36.35] git commit -m "OurWord auto-commit 2026-05-21 10.36.34"
+C:\Users\Alvin Meko\AppData\Local\Language Data
+OUTPUT:
+[main 28736fd] OurWord auto-commit 2026-05-21 10.36.34
+ 18 files changed, 733 insertions(+)
+ create mode 100644 OurWordSample/.Pictures/FollowMe.jpg
+ create mode 100644 OurWordSample/.Pictures/JesusBaptism.jpg
+ create mode 100644 OurWordSample/.Pictures/JohnTheBaptist.jpg
+ create mode 100644 OurWordSample/.Pictures/RollingUpMat.jpg
+ create mode 100644 OurWordSample/.Pictures/Wineskin.jpg
+ create mode 100644 OurWordSample/.Settings/English.otrans
+ create mode 100644 OurWordSample/.Settings/English.owp
+ create mode 100644 OurWordSample/.Settings/Hawai'i Creole English.otrans
+ create mode 100644 OurWordSample/.Settings/NIV.otrans
+ create mode 100644 OurWordSample/.Settings/NLT.otrans
+ create mode 100644 OurWordSample/.Settings/OurWordSample.StyleSheet
+ create mode 100644 OurWordSample/.Settings/OurWordSample.owt
+ create mode 100644 OurWordSample/.Settings/RSV.otrans
+ create mode 100644 OurWordSample/English/41 MRK - English.oxes
+ create mode 100644 OurWordSample/Hawai'i Creole English/41 MRK - Hawai'i Creole English.oxes
+ create mode 100644 OurWordSample/NIV/41 MRK - NIV.oxes
+ create mode 100644 OurWordSample/NLT/41 MRK - NLT.oxes
+ create mode 100644 OurWordSample/RSV/41 MRK - RSV.oxes
+
+ERROR:
+
+----------------------
+[2026-05-21 10.36.39] git pull origin main
+C:\Users\Alvin Meko\AppData\Local\Language Data
+OUTPUT:
+
+ERROR:
+fatal: couldn't find remote ref main
+
+----------------------
