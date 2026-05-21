@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StyleSheet Version="1">
+  <Styles>
+    <CharacterStyle Name="Chapter Number" Color="DarkMagenta" FontName="Arial" FontSize="20" FontStyle="Bold">
+      <Font WritingSystem="Latin" Name="Times New Roman" Size="27" Style="Bold" />
+      <Font WritingSystem="English" Name="Times New Roman" Size="27" Style="Bold" />
+    </CharacterStyle>
+    <CharacterStyle Name="Footnote Letter" Color="Navy" FontName="Arial" FontSize="8" Position="Superscript">
+      <Font WritingSystem="Latin" Name="Arial" Size="9" />
+      <Font WritingSystem="English" Name="Arial" Size="9" />
+    </CharacterStyle>
+    <CharacterStyle Name="Header in Window Panes" Color="Black" FontName="Arial" FontSize="12" FontStyle="Bold">
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+    </CharacterStyle>
+    <CharacterStyle Name="Label" Color="Crimson" FontName="Arial" FontSize="10">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="English" Name="Arial" Size="10" />
+    </CharacterStyle>
+    <CharacterStyle Name="Verse Number" Color="Red" FontName="Arial" FontSize="8" Position="Superscript">
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+      <Font WritingSystem="English" Name="Arial" Size="8" />
+    </CharacterStyle>
+    <ParagraphStyle Name="Caption" Color="DarkBlue" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Gentium" Size="10" Style="Italic" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="10" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Footnote" Color="Brown" FontName="Arial" FontSize="10" Before="0" After="3" FirstLineIndent="-0.15" LeftMargin="0.15" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="GentiumAlt" Size="10" />
+      <Font WritingSystem="English" Name="GentiumAlt" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Header" Color="Brown" FontName="Arial" FontSize="10" FontStyle="Bold" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Georgia" Size="10" Style="Bold" />
+      <Font WritingSystem="English" Name="Georgia" Size="10" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 1" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.15" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 2" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.3" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 3" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.45" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line Centered" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.15" RightMargin="0.15" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="List Item 1" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="List Item 2" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.4" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="List Item 3" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.6" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Literate Attention" Color="DarkRed" FontName="Arial" FontSize="8" FontStyle="Bold" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified" />
+    <ParagraphStyle Name="Literate Heading" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="6" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="9" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Literate List" Color="Black" FontName="Arial" FontSize="8" Before="0" After="0" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0" Bulleted="true" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="8" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Literate Paragraph" Color="Black" FontName="Arial" FontSize="8" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="English" Name="Arial" Size="8" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Major Section Head" Color="Black" FontName="Arial" FontSize="14" FontStyle="Bold" Before="12" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Georgia" Size="14" Style="Bold" />
+      <Font WritingSystem="English" Name="Georgia" Size="14" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Major Section Range" Color="DarkBlue" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Andika Timor" Size="8" Style="Italic" />
+      <Font WritingSystem="English" Name="Andika Timor" Size="8" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Paragraph" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Paragraph Continuation" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="-0.15" LeftMargin="0.15" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Gentium Book Basic" Size="12" />
+      <Font WritingSystem="English" Name="Gentium Book Basic" Size="12" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Parallel Passage Reference" Color="DarkBlue" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Andika Timor" Size="8" Style="Italic" />
+      <Font WritingSystem="English" Name="Andika Timor" Size="8" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Reference Translation" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="-0.2" LeftMargin="0.2" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Reference Translation Continued" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0" Alignment="Justified" />
+    <ParagraphStyle Name="Section Head" Color="Black" FontName="Arial" FontSize="12" FontStyle="Bold" Before="12" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Georgia" Size="12" Style="Bold" />
+      <Font WritingSystem="English" Name="Georgia" Size="12" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Section Head 2" Color="DarkRed" FontName="Arial" FontSize="12" FontStyle="Bold" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Georgia" Size="11" Style="BoldItalic" />
+      <Font WritingSystem="English" Name="Georgia" Size="11" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Content" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="0" After="0" FirstLineIndent="0" LeftMargin="0.1" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="9" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Header" Color="Black" FontName="Arial" FontSize="10" Before="0" After="0" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Left">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Text" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="5" After="0" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="9" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip: Block Paragraph" Color="Black" FontName="Gentium" FontSize="10" Before="0" After="0" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Left">
+      <Font WritingSystem="Latin" Name="Gentium" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip: Note Discussion" Color="Black" FontName="Gentium" FontSize="10" Before="0" After="3" FirstLineIndent="-0.15" LeftMargin="0.15" RightMargin="0" Alignment="Left">
+      <Font WritingSystem="Latin" Name="Gentium" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Title Main" Color="DarkRed" FontName="Arial" FontSize="16" FontStyle="Bold" Before="0" After="9" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Georgia" Size="18" Style="Bold" />
+      <Font WritingSystem="English" Name="Georgia" Size="18" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Title Secondary" Color="DarkRed" FontName="Arial" FontSize="14" FontStyle="Bold" Before="0" After="9" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Georgia" Size="14" Style="Bold" />
+      <Font WritingSystem="English" Name="Georgia" Size="14" Style="Bold" />
+    </ParagraphStyle>
+  </Styles>
+  <WritingSystems>
+    <WritingSystem Name="English" Punct="“‘.,;:&lt;&gt;?!()[]’”" EndPunct=".&gt;?!)],:;’”" Consonants="bcdfghjklmnpqrstvwxyz" AutoHyphCV="V-C" AutoHyphMinSplit="3" HyphBrkChars="-\/" AutoReplaceSource="30 {--} {^a} {^A} {^e} {^E} {^i} {^I} {^o} {^O} {^u} {^U} {`a} {`A} {`e} {`E} {`i} {`I} {`o} {`O} {`u} {`U} {cuz} {Cuz} {dbl } {n/r} {p/a} {so (} {So (} {thier} {YK}" AutoReplaceResult="30 {—} {á} {Á} {é} {É} {í} {Í} {ó} {Ó} {ú} {Ú} {à} {À} {è} {È} {ì} {Ì} {ò} {Ò} {ù} {Ù} {cuz (elaboration)} {Cuz (elaboration)} {(doublet) } {name/reputation} {power/authority} {so (consequently) } {So (consequently)} {their} {Yesus Kristus}" />
+    <WritingSystem Name="Latin" Punct="“‘.,;:&lt;&gt;?!()[]’”" EndPunct=".&gt;?!)],:;’”" Consonants="bcdfghjklmnpqrstvwxyz" AutoHyphCV="V-C" AutoHyphMinSplit="3" HyphBrkChars="-\/" AutoReplaceSource="20 {`a} {`A} {`e} {`E} {`i} {`I} {`o} {`O} {`u} {`U} {^a} {^A} {^e} {^E} {^i} {^I} {^o} {^O} {^u} {^U}" AutoReplaceResult="20 {à} {À} {è} {È} {ì} {Ì} {ò} {Ò} {ù} {Ù} {á} {Á} {é} {É} {í} {Í} {ó} {Ó} {ú} {Ú}" />
+  </WritingSystems>
+</StyleSheet>

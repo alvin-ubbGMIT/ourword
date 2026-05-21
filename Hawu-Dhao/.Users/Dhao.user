@@ -1,0 +1,4 @@
+<User username="Dhao" password="ubb-bunga" usertype="Translator" maxWin="true" zoom="150" primaryUi="Bahasa Indonesia" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="t_dhao" collaborationPassword="3ruV4huD" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canZoom="true" canOpenProject="true" canExportProject="true" canPrint="true" canMakeNotes="true" noteAuthor="Dhao" closeNoteWindowWhenMouseLeaves="true">
+  <TranslationSettings name="Dhao" globalEditability="Custom" Notes="GEN EXO LEV NUM DEU JOS JDG 1SA 2SA 1KI 2KI 1CH 2CH EZR NEH JOB PRO ECC SNG ISA JER LAM EZK DAN HOS JOL AMO OBA MIC NAM HAB ZEP HAG ZEC MAL MAT MRK LUK JHN ACT ROM 1CO 2CO GAL EPH PHP COL 1TH 2TH 1TI 2TI TIT PHM HEB JAS 1PE 2PE 1JN 2JN 3JN JUD REV" />
+  <TranslationSettings name="Hawu" globalEditability="ReadOnly" />
+</User>

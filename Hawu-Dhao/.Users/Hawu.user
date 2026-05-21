@@ -1,0 +1,5 @@
+<User username="Hawu" password="ubb-Muri" usertype="Translator" maxWin="true" zoom="175" primaryUi="Bahasa Indonesia" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="t_hawu" collaborationPassword="DR4nUpRu" canNavFirstLast="true" canDoNaturalnessCheck="true" canZoom="true" canOpenProject="true" canExportProject="true" canPrint="true" canMakeNotes="true" noteAuthor="Hawu" closeNoteWindowWhenMouseLeaves="true">
+  <TranslationSettings name="Hawu" globalEditability="Custom" Notes="MRK" />
+  <TranslationSettings name="Dhao" globalEditability="Notes" />
+  <TranslationSettings name="Mehara" globalEditability="Notes" />
+</User>

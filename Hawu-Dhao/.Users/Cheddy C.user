@@ -1,0 +1,4 @@
+<User username="Cheddy C" password="Carribean" usertype="Translator" maxWin="true" zoom="175" primaryUi="English" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="curtis_campbell" collaborationPassword="YoH047yL" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canOpenProject="true" canExportProject="true" canPrint="true" canFindAndReplace="true" canMakeNotes="true" noteAuthor="Cheddy C" closeNoteWindowWhenMouseLeaves="true" canDeleteNotesAuthoredByOthers="true">
+  <TranslationSettings name="Mehara" globalEditability="Full" />
+  <TranslationSettings name="Hawu" globalEditability="Full" />
+</User>

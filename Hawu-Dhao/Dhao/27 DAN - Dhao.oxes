@@ -1,0 +1,1079 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="DAN" stage="Draft" version="A">
+    <p class="Header" usfm="h" />
+    <p class="Title Main" usfm="mt" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1" />
+      <note reference="1:1" class="Note General Paragraph" usfm="f" />
+      <note reference="1:1" class="Note Cross Reference Paragraph" usfm="x">2 Dhèu Aae sèra 24:1; 2 Sejara nèti Isra'el dènge Yahuda 36:5-7; Yermia 46:2</note>
+      <v n="2" />
+      <note reference="1:2" class="Note General Paragraph" usfm="f" />
+      <note reference="1:2-4" class="Note Cross Reference Paragraph" usfm="x">2 Dhèu Aae sèra 20:17-18, 24:10-16; 2 Sejara nèti Isra'el dènge Yahuda 36:10; Yesaya 39:7-8</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <fig path="cook\cot\co01343c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+    </p>
+    <fig path="cook\cot\co01344c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <v n="19" />
+    </p>
+    <fig path="cook\cot\co01345c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="1:21" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="2:4" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8-9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01346c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01347c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="21" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="22" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="23" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <v n="28" />
+      <v n="29" />
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+      <v n="35" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01349c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <v n="37" />
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+      <v n="43" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="44" />
+      <v n="45" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="46" />
+      <v n="47" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01350c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="48" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="49" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="3" />
+      <v n="1" />
+      <note reference="3:1" class="Note General Paragraph" usfm="f" />
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01354c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+      <v n="9" />
+      <v n="10" />
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01355c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01357c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01360c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <fig path="c:\graphics\cook\cot\co01362c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01364c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="4" />
+      <v n="1" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1">
+      <v n="2" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+      <v n="9" />
+      <v n="10" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="11" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="12" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="14" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1">
+      <v n="15" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="16" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="17" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01363c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+      <v n="25" />
+      <v n="26" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01365c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+      <v n="29" />
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01366c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="35" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01367c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="5" />
+      <v n="1" />
+      <note reference="5:1" class="Note General Paragraph" usfm="f" />
+      <v n="2" />
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <note reference="5:5" class="Note General Paragraph" usfm="f" />
+      <v n="6" />
+    </p>
+    <fig path="c:\graphics\hk-lb\hk00288c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+      <v n="9" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01370c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01371c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <v n="23" />
+      <v n="24" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01375c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <v n="27" />
+    </p>
+    <p class="Line 2" usfm="q2">
+      <v n="28" />
+      <note reference="5:28" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30-31" />
+      <note reference="5:30-31" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="6" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+      <v n="9" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01376c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01377c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01380c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01382c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01385c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <fig path="c:\graphics\cook\cot\co01387c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1">
+      <v n="26" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="27" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <fig path="c:\graphics\cook\cot\co01388c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="7" />
+      <v n="1" />
+      <note reference="7:1" class="Note General Paragraph" usfm="f" />
+      <v n="2" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />
+      <note reference="7:3" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 13:1, 17:8</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />
+      <note reference="7:4-6" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 13:2</note>
+    </p>
+    <fig path="c:\graphics\hk-lb\lb00047c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Line 1" usfm="q1">
+      <v n="5" />
+    </p>
+    <fig path="c:\graphics\hk-lb\lb00048c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Line 1" usfm="q1">
+      <v n="6" />
+    </p>
+    <fig path="c:\graphics\hk-lb\bk00049c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Line 1" usfm="q1">
+      <v n="7" />
+      <note reference="7:7" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 12:3, 13:1</note>
+    </p>
+    <p class="Line 2" usfm="q2">
+      <v n="8" />
+      <note reference="7:8" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 13:5-6</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="9" />
+    </p>
+    <p class="Line 2" usfm="q2">
+      <note reference="7:9" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 20:4, 1:14</note>
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="10" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3">
+      <note reference="7:10" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 5:11, 20:12</note>
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <note reference="7:13" class="Note Cross Reference Paragraph" usfm="x">Mateos 24:30, 26:64; Markus 12:36; 13:26, 14:62; Lukas 21:27; Rai-haha Rupa Hiu 1:7,13, 14:14</note>
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="14" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="7:14" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 11:15</note>
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+      <note reference="7:18" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 22:5</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="7:21" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 13:7</note>
+      <v n="22" />
+      <note reference="7:22" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 20:4</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="24" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="7:24" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 17:12</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="25" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="7:25" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 12:14, 13:5-6</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+      <v n="27" />
+      <note reference="7:27" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 20:4, 22:5</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="8" />
+      <v n="1" />
+      <v n="2" />
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+      <note reference="8:10" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 12:4</note>
+      <v n="11" />
+      <v n="12" />
+      <note reference="8:12" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+      <note reference="8:16" class="Note Cross Reference Paragraph" usfm="x">Lukas 1:19, 26</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+      <v n="21" />
+      <v n="22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <v n="24" />
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="9" />
+      <v n="1-2" />
+      <note reference="9:1-2" class="Note General Paragraph" usfm="f" />
+      <note reference="9:1-2" class="Note Cross Reference Paragraph" usfm="x">Yermia 25:11-12, 29:10</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3-4" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="9:11" class="Note Cross Reference Paragraph" usfm="x">Lole Hari J'ara-j'ara Mamuri 27:14-26; 28:15-68</note>
+      <v n="12" />
+      <v n="13" />
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Line 2" usfm="q2">
+      <v n="19" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+      <note reference="9:21" class="Note Cross Reference Paragraph" usfm="x">Lukas 1:19, 26</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <v n="23" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="24" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <note reference="9:25" class="Note General Paragraph" usfm="f" />
+      <v n="26" />
+      <v n="27" />
+      <note reference="9:27" class="Note Cross Reference Paragraph" usfm="x">Daniel 11:31, 12:11; Mateos 24:15; Markus 13:14</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="10" />
+      <v n="1" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="10:4" class="Note General Paragraph" usfm="f" />
+      <v n="5" />
+      <note reference="10:5-6" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 1:13-15, 2:18, 19:12</note>
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <v n="8" />
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+      <note reference="10:13" class="Note Cross Reference Paragraph" usfm="x">, 21: Rai-haha Rupa Hiu 12:7</note>
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <c n="11" />
+      <v n="1" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+      <v n="23" />
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <note reference="11:31" class="Note Cross Reference Paragraph" usfm="x">Daniel 9:27, 12:11; Mateos 24:15; Markus 13:14</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+      <v n="34" />
+      <v n="35" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <note reference="11:36" class="Note Cross Reference Paragraph" usfm="x">Daniel 7:8, 9:27; 2 Tesalonika 2:3-4; Rai-haha Rupa Hiu 13:5-8</note>
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+      <v n="39" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+      <v n="41" />
+      <v n="42" />
+      <v n="43" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="44" />
+      <v n="45" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="12" />
+      <v n="1" />
+      <note reference="12:1" class="Note Cross Reference Paragraph" usfm="x">Mateos 24:21; Markus 13:19; Rai-haha Rupa Hiu 7:14, 12:7</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+      <note reference="12:2" class="Note Cross Reference Paragraph" usfm="x">Yesaya 25:7, 26:19; Mateos 25:46; Yohanis 5:24-30; 2 Timotius 1:10</note>
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="12:4" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 22:10</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <note reference="12:7" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 10:5, 12:14</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="10" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2">
+      <note reference="12:10" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 22:11</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <note reference="12:11" class="Note Cross Reference Paragraph" usfm="x">Daniel 9:27, 11:31; Mateos 24:15; Markus 13:14</note>
+      <v n="12" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+  </book>
+</bible>

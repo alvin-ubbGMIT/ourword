@@ -1,0 +1,9 @@
+<User username="UBB Admin" password="J4gaj4ga" usertype="Administrator" zoom="150" primaryUi="Bahasa Indonesia" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="ubb_admin" collaborationPassword="7qVF0uUh" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canCreateProject="true" canOpenProject="true" canExportProject="true" canPrint="true" canFilter="true" canMakeNotes="true" noteAuthor="UBB Admin" closeNoteWindowWhenMouseLeaves="true">
+  <TranslationSettings name="Kabola" globalEditability="Notes" />
+  <TranslationSettings name="Klon" globalEditability="Notes" />
+  <TranslationSettings name="Sawila" globalEditability="Notes" />
+  <TranslationSettings name="Wersing" globalEditability="Full" />
+  <TranslationSettings name="Dhao" globalEditability="Notes" />
+  <TranslationSettings name="Hawu" globalEditability="Notes" />
+  <TranslationSettings name="Mehara" globalEditability="Notes" />
+</User>

@@ -1,0 +1,6 @@
+<User username="Chuck Grimes" password="cherubim" usertype="Administrator" maxWin="true" zoom="200" primaryUi="English" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="chuck_grimes" collaborationPassword="8qNG5tdv" canEditStructure="true" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canCreateProject="true" canOpenProject="true" canExportProject="true" canPrint="true" canFilter="true" canLocalize="true" canRestoreBackups="true" canDoTscReport="true" canFindAndReplace="true" canMakeNotes="true" noteAuthor="Chuck Grimes" closeNoteWindowWhenMouseLeaves="true" canDeleteNotesAuthoredByOthers="true" canAuthorHintForDaugherNotes="true" canAuthorInformationNotes="true" canAssignNoteToConsultant="true" canCreateFrontTranslationNotes="true">
+  <TranslationSettings name="Dhao" globalEditability="Full" />
+  <TranslationSettings name="Hawu" globalEditability="Full" />
+  <TranslationSettings name="Kupang" globalEditability="Full" />
+  <TranslationSettings name="Mehara" globalEditability="Full" />
+</User>

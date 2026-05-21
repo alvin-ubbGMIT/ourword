@@ -1,0 +1,24 @@
+<User username="Barbara Grimes" password="safeguard" usertype="Administrator" maxWin="true" zoom="175" primaryUi="English" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="barbara_grimes" collaborationPassword="4ij2q5U3" canEditStructure="true" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canCreateProject="true" canOpenProject="true" canExportProject="true" canPrint="true" canFilter="true" canFindAndReplace="true" canMakeNotes="true" noteAuthor="Barbara Grimes" closeNoteWindowWhenMouseLeaves="true" canDeleteNotesAuthoredByOthers="true" canAuthorHintForDaugherNotes="true" canAuthorInformationNotes="true" canAssignNoteToConsultant="true">
+  <TranslationSettings name="English" globalEditability="Full" />
+  <TranslationSettings name="Amarasi" globalEditability="Full" />
+  <TranslationSettings name="Ambon BT (Luang)" globalEditability="Full" />
+  <TranslationSettings name="Dela" globalEditability="Full" />
+  <TranslationSettings name="Dhao" globalEditability="Full" />
+  <TranslationSettings name="Hawu" globalEditability="Notes" />
+  <TranslationSettings name="Helong" globalEditability="Full" />
+  <TranslationSettings name="Indonesia Sehari-hari" globalEditability="Full" />
+  <TranslationSettings name="Kabola" globalEditability="Full" />
+  <TranslationSettings name="Kula" globalEditability="Full" />
+  <TranslationSettings name="Kupang" globalEditability="Full" />
+  <TranslationSettings name="Kusa-Manea" globalEditability="Full" />
+  <TranslationSettings name="Leti" globalEditability="Full" />
+  <TranslationSettings name="Lole" globalEditability="Full" />
+  <TranslationSettings name="PrintKupang" globalEditability="Full" />
+  <TranslationSettings name="Pura" globalEditability="Full" />
+  <TranslationSettings name="Rikou" globalEditability="Full" />
+  <TranslationSettings name="Sawila" globalEditability="Full" />
+  <TranslationSettings name="Tetun" globalEditability="Full" />
+  <TranslationSettings name="Tii" globalEditability="Full" />
+  <TranslationSettings name="Wersing" globalEditability="Full" />
+  <TranslationSettings name="Mehara" globalEditability="Full" />
+</User>

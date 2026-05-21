@@ -1,0 +1,5 @@
+<User username="Ben Grimes" password="Oplastala" usertype="Translator" maxWin="true" zoom="150" primaryUi="Bahasa Indonesia" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="ben_grimes" collaborationPassword="9Yljq6Wm" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canOpenProject="true" canPrint="true" noteAuthor="Ben Grimes">
+  <TranslationSettings name="Helong" globalEditability="Notes" />
+  <TranslationSettings name="Dhao" globalEditability="ReadOnly" />
+  <TranslationSettings name="Mehara" globalEditability="Full" />
+</User>

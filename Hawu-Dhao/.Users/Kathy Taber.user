@@ -1,0 +1,13 @@
+<User username="Kathy Taber" password="ubb-kalwedo" usertype="Translator" maxWin="true" zoom="130" primaryUi="English" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="kathy_taber" collaborationPassword="JRTPyv8r" canEditStructure="true" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canOpenProject="true" canExportProject="true" canPrint="true" canFilter="true" canFindAndReplace="true" canMakeNotes="true" noteAuthor="Kathy Taber" closeNoteWindowWhenMouseLeaves="true" canAuthorHintForDaugherNotes="true" canAuthorInformationNotes="true" canAssignNoteToConsultant="true">
+  <TranslationSettings name="Wersing" globalEditability="Notes" />
+  <TranslationSettings name="Klon" globalEditability="Notes" />
+  <TranslationSettings name="Sawila" globalEditability="Notes" />
+  <TranslationSettings name="Kula" globalEditability="Notes" />
+  <TranslationSettings name="Rikou" globalEditability="Notes" />
+  <TranslationSettings name="Dela" globalEditability="Notes" />
+  <TranslationSettings name="Tii" globalEditability="Notes" />
+  <TranslationSettings name="Lole" globalEditability="Notes" />
+  <TranslationSettings name="Pura" globalEditability="Notes" />
+  <TranslationSettings name="Hawu" globalEditability="Notes" />
+  <TranslationSettings name="Dhao" globalEditability="Notes" />
+</User>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="RUT" stage="Team" version="B">
+    <p class="Header" usfm="h">mRut</p>
+    <p class="Title Main" usfm="mt">Lii lolo lula-nèti Rut</p>
+    <p class="Section Head" usfm="s1">Elimelek si pidha nèti era pea ra Betlehem ètu rai Isra'el, asa rai Moab</p>
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1-2" />Uru-uru èèna, lod'o abhu mèka dhèu aae ètu Isra'el, dhèu pama'ète lii ka dhu uri dhèu Isra'el sèra.</p>
+    <p class="Paragraph" usfm="p">Taa èèna, abhu ca dhèu ngara na Elimelek. J'aj'aj'i na nèti Efrata, rae Betlehem ètu rai Yahuda. Dhèu èmu na, ngara Naomi.<note reference="1:1" class="Note General Paragraph" usfm="f">D'ara lii Ibrani, Elimelek sasoa na, &lt;&lt;Lamatua na, Dhèu Aae&gt;&gt;. Ngara Naomi sasoa na, &lt;&lt;dhu d'ara be'a&gt;&gt;,</note>Ana mone ra dhèu dua, nuka Mahlon dènge Kilyon. Taa èèna hèru manganga dhu kapai titu kèna ètu rae Yahudi. Nèti èèna ka Elimelek si lasi tèke eele rae èta-èsu ra ho pea manubha asa rae Moab, re bèka dhimu loko Yarden.</p>
+    <fig path="cook\cot\co00951c.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="3" />Te ngaa ètu nèi, Elimelek madhe, tèke eele dhèu èmu dènge ana ra.<v n="4" />Lod'o ana ra kapai, rèngu leo èmu dènge bhèni Moab. Mahlon leo nare ana bhèni ca dhèu ngara na, Rut. Kilyon leo nare ana bhèni ca dhèu, ngara na, Orpa. Te ngaa ropa rèngu pea manubha ètu èèna ele boe canguru tèu,<v n="5" />ka ana mone Na'omi dhèu dua sèra, nuka Mahlon dènge Kilyon, madhe kahèi. Rèngu madhe tèke eele ina ra--dènge boe dhèu èmu, dènge boe ana, dènge boe èpu.</p>
+    <fig path="cook\cot\co00955c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1">Naomi dènge Rut lèpa hari asa Betlehem</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />Lod'o Naomi pea ètu rae Moab era, nèngu tadèngi peka na, Lamatua sanèd'e dhèu unu Na ètu rae Yahuda, aa abhu hari le nganga'a ètu nèi. Nèti èèna ka Na'omi dènge dhèu èmu ana na/ana mantu na dhèu dua pa'èra ho neo tèke eele rai Moab lasi hari rae èta-èsu ra.<v n="7" />Èle ka tèlu ra kako tèke eele èmu Na'omi ètu rai Moab, madhutu j'ara dhu la'e asa rai Yahuda.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />Te ngaa ètu talora j'ara, Na'omi peka dènge dhèu èmu ana/ana mantu na dhèu dua sèra, na, &lt;&lt;Sèmi ne'e! Be'a risi dua mi lèpa asa ina miu. Te miu padelo le d'ara be'a mi ana ja'a dhu madhe le sèra, aa mi ja'a kahèi. Nèti èèna ka ja'a manèngi sèna ka Ama Lamatua padelo d'ara hua iia Na mi miu dua kahèi.<v n="9" />Hud'i laa Nèngu hia miu dua mi, dhèu èmu hiu dhu d'ara be'a kahèi, sèna ka miu bisa mamuri mera milu.&gt;&gt; Ka Na'omi liku nare dua ra hèia na uu, ka ra tangi.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />Te nga ra peka, aku rèngu na, &lt;&lt;Aad'o, ina! ji'i neo madhutu ina, ho mamuri bera-bera dènge a'ari ina si.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />Te ngaa Na'omi b'ala peka na, &lt;&lt;Ana pasue, è! Lèpa ka! Gaguna na ngaa, ladhe miu madhutu ja'a? Te ja'a ne heka le, aa bisa heka kore iisi ana mone dhu bisa j'aj'i dhèu èmu miu ladhe na kapai mai. Aad'o si na ma?<v n="12" />Masi ka miu dua mi sama sèmi ana dèlu ja'a, te ngaa be'a risi miu lèpa asa èmu miu. Te ja'a heka le, de miu baku pangee ja'a bisa leo hari èmu. Ja'a pangee heka sèmi èèna. Ladhe sèmi ja'a leo hari èmu mèda ne'e, aa abhu ana mone hari, na, miu pangee tasa mia?<v n="13" />Miu pangee na miu neo mata ana sèra kapai mai, ka ra leo rare miu do? Baku d'ai miu taha boe d'ara, hèia leo èmu uru dènge dhèu leo. Susa, si? Te ngaa sasusa ja'a bia risi nèti sasusa miu, te ja'a rasa nuka sèmi Ama Lamatua tino tèb'e ja'a. De, be'a risi miu madhutu ia ka ja'a.&gt;&gt;</p>
+    <fig path="c:\graphics\cook\cot\co00956c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="14" />Hèia tèlu ra tangii aae hari. Ka Orpa uu Na'omi/teto/ina mantu na, ka na palango lii, hèia na lèpa asa èmu na. Te ngaa Rut liku pa'èra-èra Na'omi.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />Na'omi peka dènge ne, aku nèngu na, &lt;&lt;Ladhe ku laa! Orpa lèpa le asa a'ari dènge mèdha sogo-tagu ra. Nga tao ka èu lamu boe sama-sama dènge ne?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />Te ngaa Rut b'ala, peka na,</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Baku nasa, te ngaa ina baku pua ja'a lèpa.</p>
+    <p class="Line 2" usfm="q2">Aa ina baku lakaseti ho ja'a kako tèke eele ina mesa-mesa.</p>
+    <p class="Line 1" usfm="q1">Te ja'a neo pa'èki taruu dènge ina.</p>
+    <p class="Line 2" usfm="q2">Lamu asa mia, na, ja'a laku asa èèna kahèi.</p>
+    <p class="Line 2" usfm="q2">Ina pea ètu mia, na, ja'a pea ètu èèna kahèi.</p>
+    <p class="Line 2" usfm="q2">A'ari ina sèra èèna na j'aj'i a'ari ja'a kahèi.</p>
+    <p class="Line 2" usfm="q2">Aa Ama Lamatua ina èèna na j'aj'i Ama Lamatua ja'a kahèi.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="17" />Ina madhe ètu mia, na, ja'a madhe ètu èèna kahèi.</p>
+    <p class="Line 2" usfm="q2">Ra padhane ina ètu mia, na, ra padhane ja'a ètu baboa ina kahèi</p>
+    <p class="Line 1" usfm="q1">Hud'i laa Lamatua huku ja'a,</p>
+    <p class="Line 2" usfm="q2">ladhe ja'a pacèri nèti ina.</p>
+    <p class="Line 3" usfm="q3">Te mamadhe bisa boe pacèri eele èdhi kahèi!&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />De lod'o Na'omi ladhe na Rut no'o boe pacèri dènge nèngu, ka na padhai lii heka.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />Èle ka dua ra kako taruu, d'ai rae Betlehem.</p>
+    <p class="Paragraph" usfm="p">Ropa dua ra d'ai nèi, dhèu aa'i-aa'i malaa-maloha lula-nèti rèngu dua ra. Dhèu bhèni d'ara rae se papeka, aku rèngu na, &lt;&lt;Tare'a, do? Ne'e ne ina Na'omi, do?&gt;&gt;</p>
+    <fig path="c:\graphics\cook\cot\co00959c.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="20" />Te ngaa Na'omi peka dènge rèngu, na,</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Sèmi ne'e! Miu paroa iia ka ja'a <span class="Italic">Na'omi,</span></p>
+    <p class="Line 2" usfm="q2">te sasoa na, &lt;dhu d'ara be'a&gt;.</p>
+    <p class="Line 1" usfm="q1">Be'a risi miu paroa ja'a <span class="Italic">Mara,</span></p>
+    <p class="Line 2" usfm="q2">te sasoa, na, &lt;dhu d'ara pèd'u&gt;.</p>
+    <p class="Line 3" usfm="q3">Te Lamatua dhu unu Kuasa Risi eele èèna tao mamuri ja'a j'aj'i pèd'u èd'u.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="21" />Uru èèna, lod'o ja'a kalua nèti era ne'e,</p>
+    <p class="Line 2" usfm="q2">ja'a dènge dhèu èmu aa dènge ana dhu tesa.</p>
+    <p class="Line 1" usfm="q1">Te ngaa limuri ne Lamatua nèti hari ja'a mai,</p>
+    <p class="Line 2" usfm="q2">dènge boe nga-nga.</p>
+    <p class="Line 1" usfm="q1">De, nga tao ka miu paroa ja'a &lt;Na'omi&gt;,</p>
+    <p class="Line 2" usfm="q2">ladhe Lamatua tatèb'e ja'a taruu?</p>
+    <p class="Line 3" usfm="q3">Te Nèngu ka dhu Kuasa Risi eele.</p>
+    <p class="Line 3" usfm="q3">Aa Nèngu ka dhu pasusa ja'a!&gt;&gt;"</p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />Ne'e ne lii lolo Na'omi lèpa nèti rai Moab dènge ana dhèu èmu na, Rut, dhèu Moab. Dua ra d'ai Betlehem, lèke dènge hèru puu tarae.</p>
+    <p class="Section Head" usfm="s1">Rut sab'a ètu oka Bo'as</p>
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />Ètu Betlehem abhu dhèu kaja ca dhèu ngara na, Bo'as. Nèngu pa'a'ari dènge Elimelek, nuka dhèu èmu Na'omi dhu madhe le. De, madhutu a'abhu dhèu ètu rae èèna, Bo'as na, nuka sèmi kera Na'omi.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />Ca lod'o, dhèu bhèni leo kara ca dhèu nèti rae Moab, nuka Rut, la'e asa Na'omi, ho manèngi peka na, &lt;&lt;Ina, e! Bisa do, ja'a laku asa d'ara oka dhèu ho pili kore tarae dhu bèbhe ètu kabodho dhèu sab'a do? [Te Atora Lamatua suri peka na hud'i sène dhèu unu aad'o tao sèmi èèna.]<note reference="2:2" class="Note Cross Reference Paragraph" usfm="x">Atora nèti Ama-ama Agama 19:9-10, Lole Hari J'ara-j'ara Mamuri 24:19, 25:5-6</note>Baku d'ai abhu dhèu dhu neo padelo d'ara be'a ra mi ja'a. Bisa, do?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">Na'omi dhaa peka na, &lt;&lt;Sèmi èèna, be'a kahèi. Na lamu ka.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />Hèia Rut la'e asa oka cue sèna ka pili nare tarae dhu dhèu sab'a sèra rare boe ropa ra puu. Ne'a boe na oka èèna, nuka oka unu Bo'as. Nèngu ka dhu pa'a'ari dènge Elimelek, nuka ama mantu Rut dhu madhe le.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />Naa, lod'o Rut pili nare tarae, cag'ag'a la, lamatua oka èèna, nuka Bo'as, mai nèti rae ho laladhe dhèu sab'a na. Na lii dènge ra, peka na, &lt;&lt;Saloom! Hud'i laa pe Ama LAMATUA ladhe leru miu!&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">Rèngu dhaa, peka na, &lt;&lt;Saloom, ama! Hud'i laa Ama Lamatua padelo d'ara hua iia Na mi ama kahèi!&gt;&gt;</p>
+    <fig path="cook\cot\co00964c.tif" rtfFormat="width:8.0cm;textWrapping:around;horizontalPosition:left" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />Hèia na ladhe nèdhi bhèni èci dhu pili nare tarae, ka Bo'as karèi dhèu j'aga oka peka na, &lt;&lt;Iraii! Dhèu bhèni ngèru ètu èèna, pa'a'ari dènge cee na?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />Hèia dhèu j'aga oka peka na, &lt;&lt;Nèngu èèna, dhèu Moab dhu heka lèpa dènge Na'omi nèti rae Moab,<v n="7" />Madae deo na na mai asa ja'a ka na manèngi, peka na, &lt;Ama, e! Hud'i la sèna ka ja'a kabhili kore tarae dhu sisa dhu dhèu sab'a se èki boe ètu èèna.&gt; Hèia ja'a dhaa peka na, &lt;La'a!&gt; Te na sab'a bia le karèi madae deo na toke d'ai sange ne'e ne. Nèngu dhoka ae sab'a ciki oo'e di ètu d'ara èmu oka ne.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />Hèia Bo'as la'e padhai lii dènge Rut, peka na, &lt;&lt;A'a! Èu ne, dhèu hiu, de nanene paie-iie lii padhai ja'a ku laa. De hud'i la èu kabhili more tarae dhu ata ètu se'e se. Lamu ia ka asa oka dhèu leo. Te ngaa be'a risi, baku pakaj'èu-j'èu nèti dhèu bhèni dhu sab'a hia ja'a ètu se'e se.<v n="9" />Ladhe paie sèmi ra puu-g'ètu ètu mia, aa ladhe seli ka era èèna, na, lamu more tarae dhu ata ètu kabodho dhèu sèra. Ja'a peka le dènge dhèu mone sèra sèna ka baku ra laleko èu. Aa ladhe koko-kamango, na, lamu minu èi asa d'ara g'ala dhu rèngu usu nèti madha èi.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />Nanene sèmi èèna ka, Rut pacud'u toke rai. Hèia na peka, &lt;&lt;Ja'a manèngi makasi, ama! Te ngaa ja'a neo karèi sèmi ne'e. Ama tatu me'a le, ja'a ne, dhèu se'e boe. De, nga tao ka ama tao musi madha mi ja'a, aa padelo d'ara be'a mi ja'a?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />Ka Bo'as dhaa, &lt;&lt;Tare'a. Ja'a ke'a le. Te ngaa dhèu aa'i-aa'i ètu ne'e palolo d'ara be'a èu mi ina mantu mu ropa dhèu èmu èu madhe le. Ra palolo èu tèke eele ina-ama aa dènge a'ari ètu rae èta-èsu miu, ho mai asa talora aae dhèu leo, masi ka tadhe boe rèngu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="12" />De, ja'a manèngi sèna ka LAMATUA</p>
+    <p class="Line 2" usfm="q2">nuka Ama Lamatua dhèu Isra'el,</p>
+    <p class="Line 3" usfm="q3">bala aa'i-aa'i d'ara be'a èu!</p>
+    <p class="Line 1" usfm="q1">Ja'a manèngi sèna ka Nèngu hia mèngi nale ae-ae mi èu,</p>
+    <p class="Line 2" usfm="q2">lula d'ara be'a èu mi ina Na'omi.</p>
+    <p class="Line 1" usfm="q1">Hud'i laa Lamatua dhu j'aga èu ètu ne'e,</p>
+    <p class="Line 2" usfm="q2">lula èu te ngee era pea-palu'u mi Nèngu,</p>
+    <p class="Line 3" usfm="q3">nuka sèmi ana manu tenge era pea-palu'u ètu kolo èla manu rena.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />Hèia Rut b'ala, peka na, &lt;&lt;Ama, e! Ja'a dhèu sab'a ama boe, te ngaa ja'a neo pakarèj'e d'ara ama taruu. Te ama pa'èra le d'ara ja'a, aa padelo d'ara be'a mi ja'a kahèi.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />Ropa rèngu ae sab'a ho neo ra'a, ka Bo'as peka dènge Rut, na, &lt;&lt;Mai asa ne'e ka laa! Mu'a sama-sama dènge ji'i. More roti ne ciki, aa ladhe d'èi, na, tao asa d'ara anggur manyilu kahèi.&gt;&gt; Èle ka Rut la'e madhèdi padètu dènge dhèu sab'a sèra. Ka Bo'as hia ne tarae-sina tunu ho na'a. Rut na'a toke bècu, aa abhu sisa kahèi.</p>
+    <fig path="cook\cot\co00966c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="15-16" />Lod'o na lèpa hari asa oka ho kabhili nare tarae dhu dhèu sab'a se èki rare boe, ka Bo'as peka dènge dhèu sab'a sa, na, &lt;&lt;Nanene paiie-iie! Baku gagai ne. Hud'i eele ho na pili nare tarae madhutu dadèi nèngu. Padètu dènge dhu èki sèra kahèi, nga nga tao boe. Ja'a nasa boe ladhe miu ère mere èci-dua huri nèti tarae dhu miu èki mere sèra, aa hud'i eele ho na nare. Baku nasa ne, aa baku pamakae ne kahèi.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />Rut sab'a ètu d'ara oka ca lod'o kateme. Ropa lod'o neo cèna, ka na tao eele isi tarae nèti huri na. Isi na pènu ca soe.<note reference="2:17" class="Note General Paragraph" usfm="f">Lii Ibrani suri peka na, soe èèna, èci eyfah. Eyfah èci na, ele boe 22 liter.</note><v n="18" />Èle ka na nèti soe na asa rae Betlehem, ka na padelo rui j'aj'èra na asa ina mantu na. Ka na hia nganga'a sisa dhu na na'a deo na asa ina mantu na kahèi.</p>
+    <fig path="cook\cot\co00968c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />Ka Na'omi karèi Rut, peka na, &gt;&gt;Iraii! Deo na èu pili tarae se ètu mia? Èu sab'a ètu oka cee? Hud'i laa Ama Lamatua hia mèngi nale ae-ae mi dhèu dhu taru kira mi èu deo na.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">Hèia Rut b'ala, &lt;&lt;Ina! Lamatua oka na, ngara na Bo'as.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />Na'omi peka dènge ana mantu na, &lt;&lt;Hud'i laa Ama Lamatua hia mèngi nale ae-ae mi Bo'as. Te Lamatua bhèlu boe padelo d'ara be'a Na mi èdhi dhu mamuri, aa mi dhèu èmu èdhi dhu madhe le kahèi. Ja'a peka dènge èu sèmi ne'e: Bo'as èèna, a'ari dètu èdhi. Èdhi peka na, nèngu dènge &lt;hak ho sui&gt;. Sasoa na, nèngu dènge hak ho leo nare èu, ho hia kolo mi dhèu èmu èu dhu madhe le èèna.&gt;&gt;<note reference="2:20" class="Note Cross Reference Paragraph" usfm="x">Atora nèti Ama-ama Agama 25:25</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />Rut peka na, &lt;&lt;Ina! Deo na Bo'as peka dènge ja'a, na, &lt;bèli mai hari asa ne'e. Èu bisa sab'a dènge dhèu sab'a ja'a toke d'ai èle hèru puu-g'ètu.&gt;&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />Na'omi b'ala, peka na, &lt;&lt;La'a la! Èèna tadha be'a na. Te èu bisa sab'a dènge dhèu sab'a dhèu bhèni na sèra toke d'ai èle puu-g'ètu. Ladhe ètu oka dhèu leo bisa kahèi dhèu gagai èu. Te ngaa ètu oka Bo'as, dhèu bisa boe gagai èu!&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />De, ropa mèu na Rut pili tarae ètu oka Bo'as padètu-dètu dènge bhèni dhèu sab'a sèra toke d'ai èle hèru puu-g'ètu dènge gandum. Mèd'a na, na pea taruu dènge ina mantu na.</p>
+    <p class="Section Head" usfm="s1">Rut dènge Bo'as ètu era j'èli are</p>
+    <p class="Paragraph" usfm="p">
+      <c n="3" />
+      <v n="1" />Ca lod'o, Na'omi peka dènge ana mantu na, &lt;&lt;Sèmi ne'e. Ne'e ne lod'o na ka ho ja'a tenge dhèu mone dhu be'a hia èu, ho hud'i laa èu dènge d'ara èmu mesa, aa bisa mamuri mera milu taruu ètu èèna. Do tasa mia?</p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />Nanene pa'iie. Èu sanèd'e era dhèu mone dhu ngara na, Bo'as, si? Nèngu ka dhu ator sèna ka èu pili more tarae ètu kabodho dhèu sab'a na sèra. Nèngu pa'a'ari dènge èdhi nèti dhèu èmu ja'a dhu madhe le na. Mèd'a ne kahèi dhèu ae-ae neo pakaboko ètu era j'èli are. Èèna na Bo'as ètu èèna kahèi.<v n="3" />De, naneo ja'a sèmi ne'e: èu lamu d'iu èi ku. Èle na kosa èi hèu mèngi ciki, aa silu mèdha dhu saraga kahèi. Èèna na, èu puru lamu asa era puru are na. Te ngaa mage-mage. Mate ho Bo'as na'a ninu nare ku, hud'i ho na ladhe nèdhi èu ètu èèna.<v n="4" />Na'a nare, tatu na neo bhèj'i. Lula maroga le, nèti èèna ka èu hud'i ladhe paie-iie nèngu la'e bhèj'i asa mia. Ladhe na bhèj'i le, na, èu lamu asa èèna kahèi. bhoke sig'i pana dhu hutu nare haga ho sein ne,<note reference="3:4" class="Note General Paragraph" usfm="f">Dhèu d'èlu-mèu lula-nèti Alkitab, peka na, ne'e j'aj'i tadha 1) Lula Bo'as j'aj'i a'ari dhu dènge hak ho uri Rut, limuri ne nèngu hud'i j'aga Rut, aa 2) Rut pa'èra ladhe Bo'as neo leo nare ne, madhutu hak na.</note>èle na èu bhèj'i ètu èèna kahèi. Bo'as ne'a ad'a èdhi, èèna na nèngu ka dhu peka èu hud'i tao ngaa.&gt;&gt;</p>
+    <fig path="c:\graphics\cook\cot\co00960c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />Ka Rut peka na, &lt;&lt;La'a. Pe ja'a tao madhutu sèmi èèna.&gt;&gt;<v n="6" />Hèia na puru la'e asa era j'èli are. Ka na tao aa'i madhutu lii ina mantu na.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />Ropa Bo'as na'a ninu nare, ka nèngu bècu. Hèia na la'e bhèj'i asa sebhe era pakaboko are. Mate toke na bhèj'i luu, ka Rut la'e mau-mau asa era Bo'as. Hèia na bhoke sig'i pana ètu haga Bo'as, ka na bhèj'i ètu èèna.<v n="8" />Ele boe d'ara talora mèd'a, ka Bo'as cagag'a ka na kèd'i. Hèia na kab'èli ngi'u na, ka na kabèdhi, te abhu dhèu bhèni ca dhèu dhu bhèj'i ètu haga na!<v n="9" />Ka Bo'as karèi ne, peka na, &lt;&lt;Te èu ne, ce?&gt;&gt;</p>
+    <fig path="c:\graphics\cook\cot\co00970c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">Ka Rut dhaa, &lt;&lt;Ja'a ne, Rut, nuka sèmi bhèni sab'a unu ama. Te ngaa ama ka dhu dènge &lt;hak sui&gt; more ja'a. Sasoa na, ama dènge hak ho leo more ja'a, sèna ka hia kolo mi dhèu èmu ja'a dhu madhe le. De, ja'a manèngi sèna ka ama hutu more ja'a pake suu sig'i pana ne, ho j'aj'i tadha, na, ama neo leo more ja'a.&gt;&gt;<note reference="16:9" class="Note Cross Reference Paragraph" usfm="x">Yeskial 16:8</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />Hèia Bo'as malaa, ka na padhai lii, peka na, &lt;&lt;Iraii! Ja'a manèngi sèna ka Lamatua hia mèngi-nale mi èu! bisa kahèi, èu tenge mone nèti ana ngèru ètu se'e, dhu kaja do kaja boe. Te ngaa èu tao boe sèmi èèna. Èu ne, d'ara be'a! Te èu padelo sasue taruu mi a'ari dhèu èmu èu dhu madhe le. D'ara be'a èu limuri ne be'a risi eele nèti dhu èu padelo uru sèra mi Na'omi.<v n="11" />De, baku madha'u! Te ja'a neo tao madhutu aa'i dad'èi èu. Baku j'aj'i ngangee, te dhèu kapai ètu kota ne dhu re'a peka na, èu ne bhèni dhu d'ara be'a aa maj'èni kahèi.<v n="12" />Te ngaa limuri ne abhu ca j'ara era. Sala boe, peka na, ja'a ne a'ari nèti dhèu èmu èu dhu madhe le, dhu dènge &lt;hak sui&gt; èu. Te ngaa abhu dhèu èci dhu dètu risi nèti ja'a. De nèngu dènge hak pama'ète ho leo nare èu. Ladhe na no'o boe, ja'a heka dènge hak kèna.<note reference="3:12" class="Note Cross Reference Paragraph" usfm="x">Rut 2:20</note><v n="13" />De, naneo ja'a sèmi ne'e: mèd'a ne'e pea mi ne'e ka laa. Bèli ja'a laku padhai lii dènge ne. Ladhe na sadia leo nare èu, na, sèmi èèna ka. Te ngaa ladhe aad'o, na, ja'a subha pake kolongara Lamatua dhu Mamuri, na, ja'a mesa ku dhu urus ho leo kore èu. Ad'a èdhi ètu ne'e, ja'a ko'o &lt;sui kore&gt; èu. De, bhèj'i ètu èèna toke d'ai mèu ka.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />Èle ka Rut bhèj'i ètu haga Bo'as. Te ngaa loo rea, maroga era ho dhèu tadhe boe èci dènge èci, ka Rut dhu kèd'i le ho neo lèpa. Te Bo'as dhu peka mema le, na, &lt;&lt;Be'a boe ladhe dhèu re'a na, abhu dhèu bhèni mai talora mèd'a ètu era j'èli are ne.<v n="15" />Mai, tao sig'i pana dhu èu pake na sèna ka ja'a tao tarae asa d'ara.&gt;&gt; Hèia na d'au tarae èna pad'au tao asa sig'i Rut. Ka na ded'e asa kabela kao Rut. Hèia Bo'as lèpa asa rae na kahèi.<note reference="3:15" class="Note General Paragraph" usfm="f">Alkitab lii Ibrani peka boe a'uku dhu kapai. Te ngaa bia ka toke Bo'as hud'i tolong hua asa kabela kao Rut. Sasuri lii Ibrani, peka na, "nèngu (mone, nuka Bo'as)" dhu lèpa asa rae. Te ngaa cahag'e suri, "nèngu (bhèni, nuka Rut)" ka dhu la'e asa rae.</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />Ropa Rut d'ai èmu, ka ina mantu na karèi ne, &lt;&lt;Sèmi ngaa mèd'a-mèd'a na, oo?&gt;&gt; Hèia Rut lolo aa'i-aa'i dhu Bo'as tao hia ne,</p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />na lolo tabha na, &lt;&lt;na d'au hia ja'a tarae kahèi. Ka na peka, &lt;Èu baku lèpa asa ina mantu èu dènge ai hua.&gt;&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />Hèia Na'omi b'ala, &lt;&lt;La'a la! Limuri ne èu hud'i mau-mau, ho mate kabar. Te dhu jalas le, peka na, Bo'as neo urus parkara ne pamate heka. Tatu na neo urus doe ne'e kahèi.&gt;&gt;</p>
+    <p class="Section Head" usfm="s1">Bo'as ètu era lii-langu</p>
+    <p class="Paragraph" usfm="p">
+      <c n="4" />
+      <v n="1" />Èle ka, Bo'as la'e asa hèb'a tedhe dhu j'ara maso asa kota ho neo madhèdhi ètu èèna. Ètu èèna, dhèu heka-dhèu heka kota èèna biasa pakaboko ho rare lii èci. D'ai era èèna ka, a'ari Bo'as dhu dènge &lt;hak sui&gt; ho bisa leo nare Rut kako re èèna kahèi. Hèia Bo'as paroa ne, peka na, &lt;&lt;Bu, ee! Mai madhèdhi asa ne'e ku laa! Te ja'a parluu èu.&gt;&gt; Ka dhèu èèna la'e madhèdi ètu era èèna kahèi.<v n="2" />Hèia Bo'as paroa nare canguru dhèu heka-dhèu heka ad'a ho madhèd'i j'aj'i sakasii, na peka, &lt;&lt;Mai, Ama-ama madhèd'i ètu ne'e ho nanene lii-langu ne.&gt;&gt; Hèia ra madhèd'i.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />Ka Bo'as lolo hia a'ari na dhu dènge &lt;hak sui&gt; Rut, peka na, &lt;&lt;Sèmi ne'e. A'a sanèd'e era rai cakasib'i unu a'a'ri èdhi Elimelek, do? Uru èèna, ropa hèru manganga, nèngu la'e rai Moab, ka na madhe ètu nèi. Limuri ne dhèu èmu na nuka Na'omi lèpa hari mai, ka neo pahia eele rai èèna.<v n="4" />Nanene sèmi èèna ka, ja'a pangee sèmi ne'e: hud'i ja'a peka dènge a'a ku laa, lula a'a ka dhu dènge &lt;hak sui&gt; rai èèna. Te a'a dènge Elimelek ca turunan! De, ladhe a'a neo hèli more rai èèna, na, peka mema, sèna ka dhèu heka-dhèu heka se'e j'aj'i sakasii. Te ngaa ladhe aad'o, na, peka mema ètu madha sakasii se kahèi, te ja'a neo hèli. Dhu tare'a ka, a'a dhu dènge hak uru. Te ngaa ladhe mo'o boe, na, hak èèna puru mi ja'a.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">Ka dhèu èèna dhaa, na, &lt;&lt;La'a. Ja'a hèli.&gt;&gt;</p>
+    <fig path="c:\graphics\cook\cot\co00971c.tif" rtfFormat="width:6.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />Bo'as peka hari, na, &lt;&lt;Baku nasa, te ngaa a'a hud'i sanèd'e ku, te ladhe hèli more rai cakasib'i nèti Na'omi, na, a'a hud'i more bhèni dhèu Moab, ngara na Rut. Te nèngu leo dènge ana Elimelek dhu madhe le. De, hud'i leo more ne, ho hia kolo mi dhèu èmu na dhu madhe èèna. Dènge sèmi èèna, rai pusaka na kalua boe nèti a'a'ri èdhi.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />Dhèu na dhaa, peka na, &lt;&lt;Ladhe sèmi èèna, na, baku nasa, ja'a j'aj'i boe hèli. Te ladhe ja'a hèli, na, nuka sèmi pusaka ja'a mesa ku ele. Pusaka ja'a dènge ana ja'a èèna na j'aj'i unu Elimelek dènge a'ari na. De, ja'a baku hèli. Hud'i laa èu ka dhu hèli more rai èèna aa leo more dhèu bhèni na.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />(Uru-uru sèra, lod'o dhèu Israel neo saraka hak ra ho sui rare mèdha èci ètu dhèu leo, rèngu hud'i bhoke salapa rèngu ho hia mi dhèu èèna. Èèna j'aj'i tadha (sah) ètu katanga madha dhèu, peka na, rèngu saraka le hak ra.)<note reference="4:7-8" class="Note Cross Reference Paragraph" usfm="x">Lole Hari J'ara-j'ara Mamuri 25:9</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />De, ropa dhèu èèna saraka le hak asa Bo'as, peka na, &lt;&lt;Hud'i ka laa èu ka dhu hèli,&gt;&gt; ka na bhoke salapa na hia mi Bo'as ètu katanga madha dhèu heka-dhèu heka sèra.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />Hèia Bo'as peka dènge dhèu heka-dhèu heka aa dènge dhèu aa'i-aa'i ètu sèra, na, &lt;&lt; Doe ne'e ama aa'i-aa'i dhu j'aj'i le sakasii. Hak èèna j'aj'i le unu ja'a. Ja'a peka mema, na, ja'a neo sui kore nèti Na'omi, aa'i-aa'i dhu j'aj'i unu pusaka Elimelek aa nèti ana mone na, nuka Kilyon dènge Mahlon dhu madhe le sèra.<v n="10" />Naneo ja'a rai èèna mesa boe di, te ngaa ja'a kore bhèni Moab na kahèi, ngara na Rut, dhu Mahlon madhe tèke eele na. Ja'a neo leo kore ne, te ja'a sui kore le hak èèna. Dènge sèmi èèna, ana ji'i dua mi bisa j'aj'i turunan nèti Mahlon. Aa a'ari na dènge dhèu kabarai na bhèlu boe ngara na. Doe ne'e miu se ka dhu j'aj'i sakasii.&gt;&gt;<note reference="4:10" class="Note Cross Reference Paragraph" usfm="x">Lole Hari J'ara-j'ara Mamuri 25:5-6</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />Èle ka, dhèu heka-dhèu heka ètu kota dènge dhèu aa'i-aa'i dhu pakaboko ètu sèra, dhaa peka na, &lt;&lt;Tare'a, oo! Ji'i ka dhu ladhe dènge musi madha ji'i unu ti. Ji'i se ka dhu j'aj'i sakasii.</p>
+    <p class="Line 1" usfm="q1">Dhèu bhèni dhu maso asa d'ara èmu èu,</p>
+    <p class="Line 2" usfm="q2">hud'i la sèna ka LAMATUA tao nèngu nuka sèmi Rahel dènge Lea.</p>
+    <p class="Line 2" usfm="q2">Te dhèu Israel aa'i-aa'i j'aj'aj'i ra nèti rèngu dua ra.</p>
+    <p class="Line 1" usfm="q1">Hud'i la sèna ka Lamatua tao èu j'aj'i dhèu kapai ètu fam Efrata,</p>
+    <p class="Line 2" usfm="q2">aa j'aj'i dhèu dhu dènge kolongara be'a ètu Betlehem.<note reference="4:11" class="Note Cross Reference Paragraph" usfm="x">Lii Lolo dhu Uru Tèka 29:31</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="12" />Hud'i la sèna ka Lamatua hia ana mi èu dènge dhèu bhèni ngèru èèna,</p>
+    <p class="Line 2" usfm="q2">sèna ka ana-èpu dua mi j'aj'i kapai,</p>
+    <p class="Line 3" usfm="q3">nuka sèmi bèi-baki Peres,</p>
+    <p class="Line 3" usfm="q3">dhu j'aj'i ana Tamar dènge Yahuda.&gt;&gt;<note reference="4:12" class="Note General Paragraph" usfm="f">Tamar j'aj'i dhèu leo kara ètu Isra'el kahèi. Nèngu leo dènge Yahuda ho neo hia kolo mi dhèu èmu na dhu madhe le. Ladhe ètu Lii Lolo dhu Uru Tèka 38.</note></p>
+    <p class="Section Head" usfm="s1">Bo'as dènge Rut abhu kolo</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />Èle ka, Bo'as leo nare Rut. Ropa dua ra j'unu pa'èci, ka Lamatua bhoke era ana Rut, sèna ka nèngu bisa dènge babia. Ka na nara iisi ana mone ca dhèu.</p>
+    <fig path="cook\cot\co00973c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="14" />Nara iisi nare ka dhèu bhèni ètu Betlehem, peka nènge Na'omi, na,</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Koa-kio Lamatua!</p>
+    <p class="Line 2" usfm="q2">Te Nèngu hia le èu kolo,</p>
+    <p class="Line 3" usfm="q3">sèna ka ngara a'ari èu baku ele.</p>
+    <p class="Line 1" usfm="q1">Hud'i laa èèna na ana na j'a'ji dhèu kapai ètu Isra'el</p>
+    <p class="Line 1" usfm="q1">
+      <v n="15" />Hud'i laa sèna ka ana ne</p>
+    <p class="Line 2" usfm="q2">tao èu nuka sèmi èu ngèru hari!</p>
+    <p class="Line 1" usfm="q1">Hud'i laa sèna ka ana ne</p>
+    <p class="Line 2" usfm="q2">èèna na soru bara èu lod'o èu d'ara heka!</p>
+    <p class="Line 1" usfm="q1">Te ana mantu èu dhu nara iisi ana èpu ne,</p>
+    <p class="Line 2" usfm="q2">padelo le sasue na mi dedha èu.</p>
+    <p class="Line 1" usfm="q1">Ana mantu èci ne,</p>
+    <p class="Line 2" usfm="q2">be'a risi hia èu nèti pidhu ana mone!&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />Na'omi liku nare ana èèna, ka ladhe leru na nuka sèmi ana d'èlu na.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />Hèia dhèu bhèni ètu kota èèna padhai lii, peka na, &lt;&lt;Iraii! Limuri ne nuka sèmi Na'omi dhu abhu ana hari! Be'a titu kèna!&gt;&gt; Ka ra pangare na, &lt;Obed&gt;.</p>
+    <p class="Paragraph" usfm="p">Ropa Obed kapai, na abhu ana mone ca dhèu, ngara na Isai. Isai abhu ana mone ca dhèu, ngara na Daud, dhu j'aj'i dhèu aae.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />Ne'e ne, bèi-baki nèti Peres:</p>
+    <p class="Line 2" usfm="q2">Peres nara iisi Hesron.</p>
+    <p class="Line 2" usfm="q2">
+      <v n="19" />Hesron nara iisi Ram.</p>
+    <p class="Line 2" usfm="q2">Ram nara iisi Aminadab.</p>
+    <p class="Line 2" usfm="q2">
+      <v n="20" />Aminadab nara iisi Nahason.</p>
+    <p class="Line 2" usfm="q2">Nahason nara iisi Salmon.</p>
+    <p class="Line 2" usfm="q2">
+      <v n="21" />Salmon nara iisi Bo'as.</p>
+    <p class="Line 2" usfm="q2">Bo'as nara iisi Obed.</p>
+    <p class="Line 2" usfm="q2">
+      <v n="22" />Obed nara iisi Isai.</p>
+    <p class="Line 2" usfm="q2">Isai nara iisi dhèu aae Daud.</p>
+  </book>
+</bible>

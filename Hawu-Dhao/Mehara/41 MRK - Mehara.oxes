@@ -1,0 +1,1899 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="MRK" stage="Draft" version="A">
+    <p class="Header" usfm="h" />
+    <p class="Title Secondary" usfm="mt2" />
+    <p class="Title Secondary" usfm="mt2" />
+    <p class="Title Main" usfm="mt" />
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1" />
+      <note reference="1:1" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 3:1-12; Luka 3:1-18; Johani 1:19-28)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <note reference="1:2" class="Note Cross Reference Paragraph" usfm="x">Maleaki 3:1</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="1:3" class="Note Cross Reference Paragraph" usfm="x">Yesaya 40:3</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4-6" />
+      <note reference="1:6" class="Note Cross Reference Paragraph" usfm="x">2 Duae-duae 1:8</note>
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <fig path="HK-LB\LB00296C.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <note reference="1:7" class="Note General Paragraph" usfm="f" />
+      <v n="8" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 3:13-17; Luka 3:21-22)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+      <v n="11" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2">
+      <note reference="1:11" class="Note Cross Reference Paragraph" usfm="x">Lii Ped'iri Pe'era Liru nga Rai-wawa 22:2, Lii Wue-Waje 2:7, Yesaya 42:1, Mateo 3:17, 12:18, Ma'u 9:7, Luka 3:22</note>
+    </p>
+    <fig path="cook\cnt\cn01656b.tif" rtfFormat="width:9.0cm" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 4:1-11; Luka 4:1-13)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 4:12-17; Luka 4:14-15)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="1:15" class="Note Cross Reference Paragraph" usfm="x">Mateo 3:2</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 4:18-22; Luka 5:1-11)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <fig path="cook\cnt\cn01682b.tif" rtfFormat="width:10.0cm" />
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 4:31-37)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="1:21" class="Note General Paragraph" usfm="f" />
+      <v n="22" />
+      <note reference="1:22" class="Note Cross Reference Paragraph" usfm="x">Mateo 7:28-29</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+      <v n="27" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 8:14-17; Luka 4:38-41)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <v n="33" />
+      <v n="34" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 4:42-44)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+      <v n="36" />
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+      <note reference="1:39" class="Note Cross Reference Paragraph" usfm="x">Mateo 4:23, 9:35</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 8:1-4; Luka 5:12-16)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+      <v n="43" />
+      <v n="44" />
+      <note reference="1:44" class="Note Cross Reference Paragraph" usfm="x">Kètu Agama nga Lua Petèka Agama 14:1-32</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="45" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 9:1-8; Luka 5:17-26)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <fig path="Art-Read\thruRoof.jpg" rtfFormat="textWrapping:none;verticalPosition:top" />
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+      <note reference="2:4" class="Note General Paragraph" usfm="f" />
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+    </p>
+    <fig path="cook\cnt\cn01689b.tif" rtfFormat="width:4.5cm;textWrapping:around;horizontalPosition:left" />
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+      <v n="9-10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 9:9-13; Luka 5:27-32)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <fig path="HK-LB\LB00309C.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:left" />
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 9:14-17; Luka 5:33-39)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+      <note reference="2:22" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 12:1-8; Luka 6:1-5)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <note reference="2:23" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 23:25</note>
+      <v n="24" />
+    </p>
+    <fig path="HK-LB\HK00099C.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="25-26" />
+      <note reference="2:25-26" class="Note Cross Reference Paragraph" usfm="x">1 Semue 21:1-6; Kètu Agama nga Lua Petèka Agama 24:9</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <v n="28" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 12:9-14; Luka 6:6-11)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="3" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="7-8" />
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <note reference="3:9-10" class="Note Cross Reference Paragraph" usfm="x">Ma'u 4:1, Luka 5:1-3</note>
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 10:1-4; Luka 6:12-16)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16-19" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="3:16-19a" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="3:16-19b" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 12:22-32; Luka 11:14-23, 12:10)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <note reference="3:22" class="Note Cross Reference Paragraph" usfm="x">Mateo 9:34, 10:25</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <v n="24" />
+      <v n="25" />
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <note reference="3:27" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+      <v n="29" />
+      <note reference="3:29" class="Note Cross Reference Paragraph" usfm="x">Luka 12:10</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 12:46-50; Luka 8:19-21)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+      <v n="35" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 13:1-9; Luka 8:4-8)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="4" />
+      <v n="1" />
+      <note reference="4:1" class="Note Cross Reference Paragraph" usfm="x">Luka 5:1-3</note>
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <fig path="Art-Read\sower.jpg" rtfFormat="width:10.0cm;textWrapping:none;verticalPosition:top" />
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 13:10-17; Luka 8:9-10)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2">
+      <note reference="4:12" class="Note Cross Reference Paragraph" usfm="x">Yesaya 6:9-10</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 13:18-23; Luka 8:11-15)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+      <v n="15" />
+      <v n="16" />
+      <v n="17" />
+      <v n="18" />
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 8:16-18)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="4:21" class="Note Cross Reference Paragraph" usfm="x">Mateo 5:15, Luka 11:33</note>
+      <v n="22" />
+      <note reference="4:22" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:26, Luka 12:2</note>
+      <v n="23" />
+    </p>
+    <fig path="c:\graphics\HK-LB\LB00148C.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+      <note reference="4:24" class="Note Cross Reference Paragraph" usfm="x">Mateo 7:2, Luka 6:38</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <note reference="4:25" class="Note Cross Reference Paragraph" usfm="x">Mateo 13:12, 25:29, Luka 19:26</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+      <v n="27" />
+      <v n="28" />
+      <v n="29" />
+      <note reference="4:29" class="Note Cross Reference Paragraph" usfm="x">Yoel 3:13</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 13:31-32, 34; Luka 13:18-19)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+      <v n="34" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 8:23-27; Luka 8:22-25)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <v n="37-38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 8:28-34; Luka 8:26-39)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="5" />
+      <v n="1" />
+      <v n="2-6" />
+    </p>
+    <fig path="HK-LB\LB00303C.tif" rtfFormat="width:10.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="7-8" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+      <v n="16" />
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 9:18-26; Luka 8:40-56)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+      <v n="23" />
+      <note reference="5:23" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <v n="26" />
+      <v n="27-29" />
+    </p>
+    <fig path="HK-LB\LB00310C.tif" rtfFormat="width:10.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <v n="37" />
+      <v n="38" />
+      <v n="39" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+    </p>
+    <fig path="cook\cnt\cn01713b.tif" rtfFormat="width:8.5cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="42-43" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 13:53-58; Luka 4:16-30)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="6" />
+      <v n="1" />
+      <v n="2" />
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="6:4" class="Note Cross Reference Paragraph" usfm="x">Johani 4:44</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5-6a" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 10:5-15; Luka 9:1-6)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6b" />
+      <v n="7" />
+      <v n="8-9" />
+      <v n="10" />
+      <v n="11" />
+      <note reference="6:8-11" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+      <note reference="6:13" class="Note Cross Reference Paragraph" usfm="x">J'ako 5:14</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 14:1-12; Luka 9:7-9)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <note reference="6:14-15" class="Note Cross Reference Paragraph" usfm="x">Mateo 16:14, Ma'u 8:28, Luka 9:19</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17-18" />
+      <note reference="6:17-18" class="Note Cross Reference Paragraph" usfm="x">Luka 3:19-20</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+      <v n="27" />
+      <v n="28" />
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 14:13-21; Luka 9:10-17; Johani 6:1-14)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+      <v n="31" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+      <v n="34" />
+      <note reference="6:34" class="Note Cross Reference Paragraph" usfm="x">Reke Ae Do Isra'el 27:17, 1 Duae-duae 22:17, 2 Lii Ped'iri Rae Pereda Yahuda nga Isra'el 18:16, Yeskia 34:5, Sakaria 10:2, Mateo 9:36</note>
+      <v n="35-36" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="6:37" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <fig path="c:\graphics\HK-LB\HK00155C.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:left" />
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+      <v n="43" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="44" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 14:22-33; Johani 6:16-21)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="45" />
+      <v n="46" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="47-50" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="51" />
+      <v n="52" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 14:34-36)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="53" />
+      <v n="54" />
+      <v n="55-56" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 15:1-9)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="7" />
+      <v n="1" />
+      <v n="2-5" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="6-7" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3">
+      <note reference="7:6-7" class="Note Cross Reference Paragraph" usfm="x">Yesaya 29:13</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8-9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <note reference="7:10" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 20:12, 21:17, Kètu Agama nga Lua Petèka Agama 20:9, Ped'ire Wari Ruj'ara Muri Mada 5:16</note>
+      <v n="11-12" />
+      <v n="13" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 15:10-20)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+      <v n="16" />
+      <note reference="7:16" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18-19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21-22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 15:21-28)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25-26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+      <v n="33" />
+      <v n="34" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <v n="37" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 15:32-39)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="8" />
+      <v n="1-3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <v n="8-9" />
+      <v n="10" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 16:1-4)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <note reference="8:11" class="Note Cross Reference Paragraph" usfm="x">Mateo 12:38, Luka 11:16</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <note reference="8:12" class="Note Cross Reference Paragraph" usfm="x">Mateo 12:39, Luka 11:29</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 16:5-12)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+      <note reference="8:15" class="Note Cross Reference Paragraph" usfm="x">Luka 12:1</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+      <note reference="8:18" class="Note Cross Reference Paragraph" usfm="x">Yermia 5:21, Yeskia 12:2, Ma'u 4:12</note>
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <v n="26" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 16:13-20; Luka 9:18-21)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+      <note reference="8:28" class="Note Cross Reference Paragraph" usfm="x">Ma'u 6:14-15, Luka 9:7-8</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="8:29" class="Note Cross Reference Paragraph" usfm="x">Johani 6:68-69</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 16:21-28; Luka 9:22-27)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+      <note reference="8:34" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:38, Luka 9:23, 14:27</note>
+      <v n="35" />
+      <note reference="8:35" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:39, Luka 17:33, Johani 12:25</note>
+      <v n="36" />
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <c n="9" />
+      <v n="1" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 17:1-13; Luka 9:28-36)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5-6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <note reference="9:2-7" class="Note Cross Reference Paragraph" usfm="x">2 Petu 1:17-18; Mateo 3:17, Ma'u 1:11, Luka 3:22</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <note reference="9:11" class="Note Cross Reference Paragraph" usfm="x">Maleaki 4:5, Mateo 11:14</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 17:14-21; Luka 9:37-43a)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 17:22-23; Luka 9:43b-45)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+      <v n="31" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 18:1-5; Luka 9:46-48)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+      <note reference="9:34" class="Note Cross Reference Paragraph" usfm="x">Luka 22:24</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+      <note reference="9:35" class="Note Cross Reference Paragraph" usfm="x">Mateo 20:26-27, 23:11, Ma'u 10:43-44, Luka 22:26</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+      <v n="37" />
+      <note reference="9:37" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:40, Luka 10:16, Johani 13:20</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 9:49-50)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+      <v n="40" />
+      <note reference="9:40" class="Note Cross Reference Paragraph" usfm="x">Mateo 12:30, Luka 11:23</note>
+      <v n="41" />
+      <note reference="9:41" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:42</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 18:6-9; Luka 17:1-2)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="42" />
+      <note reference="9:42" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="43" />
+      <note reference="9:43" class="Note Cross Reference Paragraph" usfm="x">Mateo 5:30</note>
+      <v n="44" />
+      <note reference="9:44" class="Note General Paragraph" usfm="f" />
+      <v n="45" />
+      <v n="46" />
+      <note reference="9:46" class="Note General Paragraph" usfm="f" />
+      <v n="47" />
+      <note reference="9:47" class="Note Cross Reference Paragraph" usfm="x">Mateo 5:29</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="48" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="9:48" class="Note Cross Reference Paragraph" usfm="x">Yesaya 66:24</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="49" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="50" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="9:50" class="Note Cross Reference Paragraph" usfm="x">Mateo 5:13, Luka 14:34-35</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 19:1-12; Luka 16:18)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="10" />
+      <v n="1" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="10:4" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 24:1-4, Mateo 5:31</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <note reference="10:6" class="Note Cross Reference Paragraph" usfm="x">Lii Ped'iri Pe'era Liru nga Rai-wawa 1:27, 5:2</note>
+    </p>
+    <p class="Line 2" usfm="q2">
+      <v n="7" />
+    </p>
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 3" usfm="q3">
+      <v n="8" />
+      <note reference="10:7-8" class="Note Cross Reference Paragraph" usfm="x">Lii Ped'iri Pe'era Liru nga Rai-wawa 2:24</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+      <v n="12" />
+      <note reference="10:11-12" class="Note Cross Reference Paragraph" usfm="x">Mateo 5:32, 1 Korintu 7:10-11</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 19:13-15; Luka 18:15-17)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <v n="15" />
+      <note reference="10:15" class="Note Cross Reference Paragraph" usfm="x">Mateo 18:3</note>
+      <v n="16" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 19:16-30; Luka 18:18-30)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <v n="19" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="10:19" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 20:12-16, Ped'ire Wari Ruj'ara Muri Mada 5:16-20</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <fig path="HK-LB\HK00038C.tif" rtfFormat="width:8.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29-30" />
+      <v n="31" />
+      <note reference="10:31" class="Note Cross Reference Paragraph" usfm="x">Mateo 20:16, Luka 13:30</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 20:17-19; Luka 18:31-34)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <v n="33" />
+      <v n="34" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 20:20-28)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="36" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+      <note reference="10:38" class="Note Cross Reference Paragraph" usfm="x">Luka 12:50</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+      <v n="43" />
+      <note reference="10:42-43" class="Note Cross Reference Paragraph" usfm="x">Luka 22:25-26</note>
+      <v n="44" />
+      <note reference="10:43-44" class="Note Cross Reference Paragraph" usfm="x">Mateo 23:11, Ma'u 9:35, Luka 22:26</note>
+      <v n="45" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 20:29-34; Luka 18:35-43)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="46" />
+      <v n="47" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="48" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="49" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="50" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="51" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="52" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:1-11; Luka 19:28-40; Johani 12:12-19)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="11" />
+      <v n="1" />
+      <note reference="11:1" class="Note General Paragraph" usfm="f" />
+      <v n="2" />
+      <v n="3" />
+    </p>
+    <fig path="HK-LB\HK00033C.tif" rtfFormat="width:9.5cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+    </p>
+    <fig path="HK-LB\LB00315C.tif" rtfFormat="width:10.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+      <note reference="11:8" class="Note General Paragraph" usfm="f" />
+      <v n="9" />
+    </p>
+    <p class="Line 1" usfm="q1">
+      <note reference="11:9" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3">
+      <note reference="11:9" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 118:26</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="10" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+    </p>
+    <fig path="HK-LB\LB00250C.tif" rtfFormat="width:11.0cm;textWrapping:none" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:18-19)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+      <note reference="11:13" class="Note General Paragraph" usfm="f" />
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:12-17; Luka 19:45-48; Johani 2:13-22)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+      <v n="17" />
+      <note reference="11:17" class="Note Cross Reference Paragraph" usfm="x">Yesaya 56:7, Yermia 7:11</note>
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01787b.tif" rtfFormat="width:10.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:20-22)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="20-21" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+      <v n="23" />
+      <note reference="11:23" class="Note Cross Reference Paragraph" usfm="x">Mateo 17:20, 1 Korintu 13:2</note>
+      <v n="24" />
+      <v n="25" />
+      <v n="26" />
+      <note reference="11:26" class="Note General Paragraph" usfm="f" />
+      <note reference="11:25-26" class="Note Cross Reference Paragraph" usfm="x">Mateo 6:14-15</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:23-27; Luka 20:1-8)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <v n="28" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 21:33-46; Luka 20:9-19)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="12" />
+      <v n="1" />
+      <note reference="12:1" class="Note Cross Reference Paragraph" usfm="x">Yesaya 5:1-2</note>
+    </p>
+    <fig path="c:\graphics\HK-LB\LB00103C.tif" rtfFormat="width:10.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <v n="5" />
+      <v n="6" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="11" />
+    </p>
+    <p class="Line 2" usfm="q2">
+      <note reference="12:10-11" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 118:22-23</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 22:15-22; Luka 20:20-26)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+    </p>
+    <fig path="c:\graphics\HK-LB\HK00166C.tif" rtfFormat="width:7.0cm;TextWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 22:23-33; Luka 20:27-40)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <note reference="12:18" class="Note Cross Reference Paragraph" usfm="x">Muri Mada Dèu Pejuu Yesu 23:8</note>
+      <v n="19" />
+      <note reference="12:19" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 25:5</note>
+      <v n="20" />
+      <v n="21" />
+      <v n="22" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+      <v n="26" />
+      <note reference="12:26" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 3:6</note>
+      <v n="27" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 22:34-40; Luka 10:25-28)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01744b.tif" rtfFormat="width:11.0cm;textWrapping:none" />
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="30" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2">
+      <note reference="12:29-30" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 6:4-5</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Paragraph" usfm="p">
+      <note reference="12:31" class="Note Cross Reference Paragraph" usfm="x">Kètu Agama nga Lua Petèka Agama 19:18</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <note reference="12:32" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 4:35</note>
+      <v n="33" />
+      <note reference="12:33" class="Note Cross Reference Paragraph" usfm="x">Hosea 6:6</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="12:28-34" class="Note Cross Reference Paragraph" usfm="x">Luka 10:25-28</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 22:41-46; Luka 20:41-44)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+      <v n="36" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3">
+      <note reference="12:36" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 110:1</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37a" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 23:1-36; Luka 20:45-47)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="37b" />
+      <v n="38" />
+      <v n="39" />
+      <v n="40" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 21:1-4)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="43" />
+      <v n="44" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:1-2; Luka 21:5-6)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="13" />
+      <v n="1" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:3-14; Luka 21:7-19)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+      <v n="11" />
+      <note reference="13:9-11" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:17-20, Luka 12:11-12</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+      <note reference="13:13" class="Note Cross Reference Paragraph" usfm="x">Mateo 10:22</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:15-28; Luka 21:20-24)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <note reference="13:14" class="Note Cross Reference Paragraph" usfm="x">Dane 9:27, 11:31, 12:11</note>
+      <v n="15" />
+      <v n="16" />
+      <note reference="13:15-16" class="Note Cross Reference Paragraph" usfm="x">Luka 17:31</note>
+      <v n="17" />
+      <v n="18" />
+      <v n="19" />
+      <note reference="13:19" class="Note Cross Reference Paragraph" usfm="x">Dane 12:1, Pengède pa Johani 7:14</note>
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <v n="22" />
+      <v n="23" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:29-31; Luka 21:25-28)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="24" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2">
+      <note reference="13:24" class="Note Cross Reference Paragraph" usfm="x">Yesaya 13:10, Yeskia 32:7, Yoel 2:10, 31, 3:15, Pengède pa Johani 6:12</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="25" />
+    </p>
+    <p class="Line 2" usfm="q2">
+      <note reference="13:25" class="Note Cross Reference Paragraph" usfm="x">Yesaya 34:4, Yoel 2:10, Pengède pa Johani 6:13</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+      <note reference="13:26" class="Note Cross Reference Paragraph" usfm="x">Dane 7:13, Pengède pa Johani 1:7</note>
+      <v n="27" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:32-35; Luka 21:29-33)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+      <v n="29" />
+      <v n="30" />
+      <v n="31" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 24:36-44)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <note reference="13:32" class="Note Cross Reference Paragraph" usfm="x">Mateo 24:36</note>
+      <v n="33" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="34" />
+      <note reference="13:34" class="Note Cross Reference Paragraph" usfm="x">Luka 12:36-38</note>
+      <v n="35" />
+      <v n="36" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:1-5; Luka 22:1-2; Johani 11:45-53)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="14" />
+      <v n="1-2" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="14:1" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 12:1-27</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:6-13; Johani 12:1-8)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="14:3-5" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <v n="5" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <note reference="14:7" class="Note Cross Reference Paragraph" usfm="x">Ped'ire Wari Ruj'ara Muri Mada 15:11</note>
+      <v n="8" />
+      <v n="9" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:14-16; Luka 22:3-6)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <v n="11" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:17-25; Luka 22:7-14, 21-23; Johani 13:21-30)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+      <v n="14" />
+      <v n="15" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <v n="18" />
+      <note reference="14:18" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 41:10</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+      <v n="21" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:26-30; Luka 22:14-20; 1 Korintu 11:23-25)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="22" />
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01803b.tif" rtfFormat="width:10.0cm;textWrapping:none;verticalPosition:top" />
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <v n="24" />
+      <note reference="14:24" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 24:8, Yermia 31:31-34</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="26" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:31-35; Luka 22:31-34; Johani 13:36-38)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2">
+      <note reference="14:27" class="Note Cross Reference Paragraph" usfm="x">Sakaria 13:7</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="28" />
+      <note reference="14:28" class="Note Cross Reference Paragraph" usfm="x">Mateo 28:16</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:36-46; Luka 22:39-46)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+      <v n="34" />
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01810b.tif" rtfFormat="width:9.0cm;textWrapping:none;verticalPosition:top" />
+    <p class="Paragraph" usfm="p">
+      <v n="35-36" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+      <note reference="14:37" class="Note General Paragraph" usfm="f" />
+      <v n="38" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+      <v n="40" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />
+      <v n="42" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:47-56; Luka 22:47-53; Johani 18:3-12)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="43" />
+      <v n="44" />
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01812b.tif" rtfFormat="width:7.0cm;verticalPosition:bottom" />
+    <p class="Paragraph" usfm="p">
+      <v n="45" />
+      <v n="46" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="47" />
+      <v n="48" />
+      <v n="49" />
+      <note reference="14:49" class="Note Cross Reference Paragraph" usfm="x">Luka 19:47, 21:37</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="50" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="51" />
+      <v n="52" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:57-68; Luka 22:54-55, 63-71; Johani 18:13-14, 19-24)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="53" />
+      <v n="54" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="55" />
+      <v n="56" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="57" />
+      <v n="58" />
+      <note reference="14:58" class="Note Cross Reference Paragraph" usfm="x">Johani 2:19</note>
+      <v n="59" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="60" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="61" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="62" />
+      <note reference="14:62" class="Note Cross Reference Paragraph" usfm="x">Dane 7:13</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="63" />
+      <v n="64" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <note reference="14:64" class="Note Cross Reference Paragraph" usfm="x">Kètu Agama nga Lua Petèka Agama 24:16</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="65" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 26:69-75; Luka 22:56-62; Johani 18:15-18, 25-27)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="66-67" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="68" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="69" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="70" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="71" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="72" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:1-2, 11-14; Luka 23:1-5; Johani 18:28-38)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="15" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:15-26; Luka 23:13-25; Johani 18:39-19:16)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <note reference="15:15" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:27-31; Johani 19:2-3)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+      <note reference="15:16" class="Note General Paragraph" usfm="f" />
+      <v n="17" />
+    </p>
+    <fig path="HK-LB\LB00321C.tif" rtfFormat="width:6.0cm;textWrapping:around:horizontalPosition:left" />
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <v n="19" />
+      <v n="20" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:32-44; Luka 23:26-43; Johani 19:17-27)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="15:21" class="Note Cross Reference Paragraph" usfm="x">Roma 16:13</note>
+      <v n="22" />
+      <v n="23" />
+      <v n="24-25" />
+      <note reference="15:24" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 22:19</note>
+      <v n="26" />
+    </p>
+    <p class="Line Centered" usfm="qc" />
+    <p class="Paragraph" usfm="p">
+      <v n="27" />
+      <v n="28" />
+      <note reference="15:28" class="Note General Paragraph" usfm="f" />
+      <note reference="15:28" class="Note Cross Reference Paragraph" usfm="x">Yesaya 53:12</note>
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01836b.tif" rtfFormat="width:11.0cm;verticalPosition:top" />
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+      <note reference="15:29" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 22:8, 109:25, Ma'u 14:58, Johani 2:19</note>
+      <v n="30" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="31" />
+      <v n="32" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:45-56; Luka 23:44-49; Johani 19:28-30)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="33" />
+      <v n="34" />
+      <note reference="15:34" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 22:2</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+      <v n="36" />
+      <note reference="15:36" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 69:22</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="37" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />
+      <note reference="15:38" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 26:31-33</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="39" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="40-41" />
+      <note reference="15:40-41" class="Note General Paragraph" usfm="f" />
+      <note reference="15:40-41" class="Note Cross Reference Paragraph" usfm="x">Luka 8:2-3</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 27:57-61; Luka 23:50-56; Johani 19:38-42)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="42-43" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="44" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="45" />
+    </p>
+    <fig path="c:\graphics\cook\cnt\cn01847b.tif" rtfFormat="width:8.0cm;verticalPosition:bottom" />
+    <p class="Paragraph" usfm="p">
+      <v n="46" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="47" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 28:1-8; Luka 24:1-12; Johani 20:1-10)</p>
+    <p class="Paragraph" usfm="p">
+      <c n="16" />
+      <v n="1" />
+      <v n="2" />
+      <v n="3-4" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <v n="6" />
+      <v n="7" />
+      <note reference="16:7" class="Note Cross Reference Paragraph" usfm="x">Mateo 26:32, Ma'u 14:28</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+    </p>
+    <p class="Section Head" usfm="s1">
+      <note reference="16:9-20" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 28:9-10; Johani 20:11-18)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 24:13-35)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Mateo 28:16-20; Luka 24:36-49; Johani 20:19-23; Muri Mada Dèu Pejuu Yesu 1:6-8)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <note reference="16:15" class="Note Cross Reference Paragraph" usfm="x">Muri Mada Dèu Pejuu Yesu 1:8</note>
+      <v n="16" />
+      <v n="17" />
+      <v n="18" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Parallel Passage Reference" usfm="r">(Luka 24:50-53; Muri Mada Dèu Pejuu Yesu 1:9-11)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />
+      <note reference="16:19" class="Note Cross Reference Paragraph" usfm="x">Muri Mada Dèu Pejuu Yesu 1:9-11</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="20" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1">
+      <note reference="16:9-10" class="Note General Paragraph" usfm="f" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p" />
+    <fig path="maps\bible\palestin.bmp" rtfFormat="width:10.5cm" />
+  </book>
+</bible>

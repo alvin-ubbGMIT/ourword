@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="JON" stage="Draft" version="A">
+    <p class="Header" usfm="h" />
+    <p class="Title Main" usfm="mt" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1" />
+      <note reference="1:1" class="Note Cross Reference Paragraph" usfm="x">2 Duae-duae 14:25</note>
+      <v n="2" />
+      <note reference="1:2" class="Note General Paragraph" usfm="f" />
+    </p>
+    <fig path="cook\cot\co01407c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="3" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <v n="5" />
+    </p>
+    <fig path="cook\cot\co01411c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="7" />
+    </p>
+    <fig path="cook\cot\co01413c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="8" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <note reference="1:9" class="Note General Paragraph" usfm="f" />
+      <v n="10" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Paragraph" usfm="p">
+      <v n="11" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="13" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />
+      <v n="16" />
+    </p>
+    <fig path="cook\cot\co01416c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="17" />
+      <note reference="1:17" class="Note Cross Reference Paragraph" usfm="x">Mateo 12:40</note>
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />
+      <v n="2" />
+    </p>
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="3" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3">
+      <note reference="2:3" class="Note Cross Reference Paragraph" usfm="x">Lii Wue-Waje 42:7</note>
+    </p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="5" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1">
+      <v n="6" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="7" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="8" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 3" usfm="q3" />
+    <p class="Line 1" usfm="q1">
+      <v n="9" />
+    </p>
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <p class="Line 1" usfm="q1" />
+    <p class="Line 2" usfm="q2" />
+    <fig path="cook\cot\co01415c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="3" />
+      <v n="1" />
+      <v n="2" />
+      <note reference="3:2" class="Note Cross Reference Paragraph" usfm="x">Junu 1:2</note>
+      <v n="3" />
+    </p>
+    <fig path="cook\cot\co01417c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+    </p>
+    <fig path="cook\cot\co01420c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+      <note reference="3:4-5" class="Note Cross Reference Paragraph" usfm="x">Mateo 12:41, Luka 11:32</note>
+    </p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+      <v n="9" />
+    </p>
+    <fig path="cook\cot\co01419c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <c n="4" />
+      <v n="1" />
+      <note reference="4:1" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 34:6; Yoel 2:13; Nehemia 9:17; Lii Wue-Waje 86:15, 103:8, 111:4, 145:8, 2 Lii Ped'iri Rae Pereda Yahuda nga Isra'el 30:9</note>
+      <v n="2" />
+      <note reference="4:2" class="Note Cross Reference Paragraph" usfm="x">Do Isra'el Mèhu èni ti Masir 34:5-7</note>
+      <v n="3" />
+      <note reference="4:3" class="Note Cross Reference Paragraph" usfm="x">1 Duae-duae 19:4</note>
+    </p>
+    <fig path="cook\cot\co01424c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+    </p>
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="5" />
+    </p>
+    <fig path="cook\cot\co01422c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="6" />
+      <v n="7" />
+      <v n="8" />
+    </p>
+    <fig path="cook\cot\co01423c.tif" rtfFormat="width:4.0cm;textWrapping:around;horizontalPosition:right" />
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+    </p>
+    <p class="Paragraph" usfm="p" />
+    <p class="Section Head" usfm="s1" />
+    <p class="Paragraph" usfm="p">
+      <v n="10" />
+      <v n="11" />
+    </p>
+  </book>
+</bible>

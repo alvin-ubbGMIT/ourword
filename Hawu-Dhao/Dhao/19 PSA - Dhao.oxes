@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="PSA" stage="Draft" version="A">
+    <p class="Header" usfm="h">Lii Sod'a Koa-Kio</p>
+    <p class="Title Main" usfm="mt">Lii Sod'a Koa-Kio</p>
+    <p class="Section Head" usfm="s1">Dhèu dhu mamuri pabe'a dènge Lamatua, èèna na oto</p>
+    <p class="Line 1" usfm="q1">
+      <c n="1" />
+      <v n="1" />Dhèu dhu oto tare'a, nuka:</p>
+    <p class="Line 2" usfm="q2">dhu nanene boe lii holo dhèu bhèlu,</p>
+    <p class="Line 2" usfm="q2">dhu tao boe madhutu j'ara mamuri dhèu kapod'e-kabèli,</p>
+    <p class="Line 2" usfm="q2">aa pa'èci boe dènge dhèu dhu d'èi padhai kakoli dhèu leo.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Te dhèu dhu d'ara mola d'èi aj'a Lii Holo-Nori Lamatua.</p>
+    <p class="Line 2" usfm="q2">Hèia ra pangee toke lutu isi sasuri Na mèu-mèd'a</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Dhèu sèmi èèna nuka sèmi aj'u cakapua</p>
+    <p class="Line 2" usfm="q2">dhu muri ètu sebhe loko dhu dènge èi,</p>
+    <p class="Line 2" usfm="q2">dhu hua pas hèru na,</p>
+    <p class="Line 2" usfm="q2">aa rèu na kamale nèdhi boe.</p>
+    <p class="Line 3" usfm="q3">Aa'i-aa'i dhu na tao, j'aj'i.<note reference="1:3" class="Note Cross Reference Paragraph" usfm="x">Yermia 17:8</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Te ngaa dhèu bhèlu sèra, aad'o sèmi èèna.</p>
+    <p class="Line 2" usfm="q2">Te rèngu nuka sèmi èto dhu ngèlu tiu eele.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />De, ladhe Lamatua pama'ète nare perkara dhèu aa'i-aa'i,</p>
+    <p class="Line 2" usfm="q2">dhèu bhèlu sèra lolos boe nèti hahuku.</p>
+    <p class="Line 2" usfm="q2">Te rèngu dènge boe hak ho maso,</p>
+    <p class="Line 3" usfm="q3">sèna ka pa'èci dènge dhèu unu Lamatua dhu d'ara mola sèra.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Te Lamatua j'aga dènge piara</p>
+    <p class="Line 2" usfm="q2">mamuri dhèu d'ara mola.</p>
+    <p class="Line 1" usfm="q1">Te ngaa dhèu bhèlu madhutu j'ara</p>
+    <p class="Line 2" usfm="q2">dhu èèna na palaho aa'i rèngu mesa ra.</p>
+    <p class="Section Head" usfm="s1">Nèti pa'ue-ai dènge Lii Holo-Nori Na, Ama Lamatua padelo ngi'u Na</p>
+    <p class="Paragraph" usfm="p">
+      <c n="19" />
+      <v n="1" />Lii moa hia mi dhèu dhu nèd'u lii koa-kio sèra: Lii Koa-Kio ne, nèti Daud.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Liru kateme</p>
+    <p class="Line 2" usfm="q2">padelo dadedha Ama Lamatua.</p>
+    <p class="Line 1" usfm="q1">Aa'i-aa'i ètu surga</p>
+    <p class="Line 2" usfm="q2">padelo hua-hela rui j'aj'èra Na.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Ladhe èdhi ladhe toke lutu, na,</p>
+    <p class="Line 2" usfm="q2">Lod'o bèli asa bèli èdhi bisa te'a j'ara hiu.</p>
+    <p class="Line 2" usfm="q2">Nèti mèd'a asa mèd'a èdhi paraga dènge j'ara</p>
+    <p class="Line 3" usfm="q3">dhu padelo dadedha Lamatua.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Masi ka abhu boe dhu padhai lii,</p>
+    <p class="Line 2" usfm="q2">pake boe lii,</p>
+    <p class="Line 2" usfm="q2">aa dènge boe lii,</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />te ngaa lii moa na palelème rai-haha kateme,</p>
+    <p class="Line 2" usfm="q2">nuka sèmi abhu dhu peka dènge èdhi,</p>
+    <p class="Line 2" usfm="q2">aa lii lolo na palelème toke d'ai suu-suu rai-haha.<note reference="19:5" class="Note Cross Reference Paragraph" usfm="x">Roma 10:18</note></p>
+    <p class="Line 1" usfm="q1">Lamatua ator le era pea hia madha lod'o.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Aa madae aae madha lod'o ca'e,</p>
+    <p class="Line 2" usfm="q2">nuka sèmi pengantin dhèu mone</p>
+    <p class="Line 3" usfm="q3">kalua nèti paleo kab'i.</p>
+    <p class="Line 1" usfm="q1">Ka na rai pa'mèri mèri,</p>
+    <p class="Line 2" usfm="q2">nuka sèmi dhèu dhu rai èra</p>
+    <p class="Line 3" usfm="q3">dhu karej'è bia.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="7" />Nèti suu liru madha lod'o cèu.</p>
+    <p class="Line 1" usfm="q1">Hèia na madhutu j'ara na</p>
+    <p class="Line 2" usfm="q2">toke d'ai suu cabèka.</p>
+    <p class="Line 2" usfm="q2">Abhu boe dhu bisa pahuni</p>
+    <p class="Line 3" usfm="q3">nèti pana nèngu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="8" />Atora Lamatua, pamèci,</p>
+    <p class="Line 2" usfm="q2">te ra pamau d'ara dhèu</p>
+    <p class="Line 1" usfm="q1">Paredha LAMATUA sèra, èdhi bisa percaya</p>
+    <p class="Line 2" usfm="q2">te ra tao dhèu biasa sèra j'aj'i d'èlu-mèu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="9" />A'aj'a Lamatua sèra, tare'a,</p>
+    <p class="Line 2" usfm="q2">te ra pakarej'è d'ara dhèu.</p>
+    <p class="Line 1" usfm="q1">Paredha LAMATUA sèra, lèke,</p>
+    <p class="Line 2" usfm="q2">te ra pasaraa j'ara mamuri dhèu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="10" />Ladhe èdhi madha'u Lamatua,</p>
+    <p class="Line 2" usfm="q2">èèna pamèu d'ara èdhi,</p>
+    <p class="Line 3" usfm="q3">aa gaguna na kako taruu</p>
+    <p class="Line 1" usfm="q1">Lii pama'ète LAMATUA sèra, mola,</p>
+    <p class="Line 2" usfm="q2">te lii pama'ète sèra, bia boe cabèka.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="11" />Lii Holo Nori Lamatua, kabua risi nèti hua laa.</p>
+    <p class="Line 2" usfm="q2">Risi nèti hua laa iia.</p>
+    <p class="Line 2" usfm="q2">Rasa na, kee risi nèti dhua nasu oni.</p>
+    <p class="Line 2" usfm="q2">Kee risi nèti dhua nasu oni j'ami dhu hae nèti rèd'a na.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="12" />Ja'a ne, dhèu pua-paleha Ama Lamatua.</p>
+    <p class="Line 2" usfm="q2">Aa Lii Holo-Nori Ama Lamatua pasanèd'e ja'a,</p>
+    <p class="Line 3" usfm="q3">ho baku lab'a atora Lamatua.</p>
+    <p class="Line 2" usfm="q2">Rèngu pasanèd'e ja'a,</p>
+    <p class="Line 3" usfm="q3">sèna ka ja'a tao madhutu taruu atora Lamatua</p>
+    <p class="Line 2" usfm="q2">Te èèna na Lamatua neo hia mèngi-nale ae-ae,</p>
+    <p class="Line 3" usfm="q3">mi dhèu dhu nanene aa madhutu Ne.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="13" />Cee ka dhu bisa ne'a sasala na aa'i-aa'i?</p>
+    <p class="Line 2" usfm="q2">Ja'a mesa ku ke'a boe.</p>
+    <p class="Line 1" usfm="q1">Nèti èèna ka ja'a manèngi sèna ka</p>
+    <p class="Line 2" usfm="q2">Lamatua saku eele sasala ja'a,</p>
+    <p class="Line 3" usfm="q3">dhu ja'a ngee kèdhi boe.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="14" />Aa ja'a manèngi sèna ka</p>
+    <p class="Line 2" usfm="q2">Lamatua j'aga ja'a,</p>
+    <p class="Line 3" usfm="q3">ho ja'a baku tao sala</p>
+    <p class="Line 3" usfm="q3">dhu ja'a neo tao.</p>
+    <p class="Line 1" usfm="q1">J'aga ho sasala sèra</p>
+    <p class="Line 2" usfm="q2">baku ator ja'a hari.</p>
+    <p class="Line 1" usfm="q1">Sèna ka ja'a dènge boe sala,</p>
+    <p class="Line 2" usfm="q2">aa ja'a mèu nèti dosa.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="15" />Sèna ka hud'i laa lii dhu kalua nèti d'ara hèb'a ja'a,</p>
+    <p class="Line 2" usfm="q2">dènge j'ara-j'ara dhu ja'a ngee ètu d'ara ja'a,</p>
+    <p class="Line 3" usfm="q3">aa'i-aa'i pakarej'è d'ara Lamatua.</p>
+    <p class="Line 1" usfm="q1">Te LAMATUA na, nuka sèmi hadhu aae cue,</p>
+    <p class="Line 2" usfm="q2">dhu kalau-karèto boe.</p>
+    <p class="Line 1" usfm="q1">Aa Lamatua na, dhu pamamuri ja'a,</p>
+    <p class="Line 2" usfm="q2">aa sui nare ja'a,</p>
+    <p class="Line 3" usfm="q3">ropa ja'a mampu boe.</p>
+    <p class="Section Head" usfm="s1">Lamatua na, nuka sèmi dhèu madhènga badha dhu be'a</p>
+    <p class="Paragraph" usfm="p">
+      <c n="23" />Lii koa-kio ne, nèti Daud.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="1" />LAMATUA na, Dhèu madhènga badha ja'a dhu lalau-lalo'o ja'a.</p>
+    <p class="Line 2" usfm="q2">Nèti èèna ka ja'a kura boe nga èci sa.</p>
+    <fig path="Hk-lb\BK00004c.tif" rtfFormat="width:5.0cm;textWrapping:around;horizontalPosition:right">Dhèu madhènga badha dhu be'a</fig>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Na lere nèti ja'a asa era ju'u,</p>
+    <p class="Line 2" usfm="q2">ho sèna ka ja'a bisa ae taha ètu èèna.</p>
+    <p class="Line 1" usfm="q1">Na lere nèti ja'a,</p>
+    <p class="Line 2" usfm="q2">laku kinu èi dhu be'a.<note reference="23:2" class="Note Cross Reference Paragraph" usfm="x">Rai-haha Rupa Hiu 7:17</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Na pa'èra ja'a,</p>
+    <p class="Line 2" usfm="q2">aa Na hia ja'a mamuri dhu hiu.</p>
+    <p class="Line 1" usfm="q1">Nèngu padelo hia ja'a j'ara mamuri dhu tare'a</p>
+    <p class="Line 2" usfm="q2">lula Nèngu èèna dhèu madhènga badha dhu neo j'aga kolongara be'a.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Masi ka ja'a kako</p>
+    <p class="Line 2" usfm="q2">ètu d'ara loe dhu maroga kiu-kiu,<note reference="23:4a" class="Note General Paragraph" usfm="f">Lii Ibrani ètu ne'e suri peka na, &lt;&lt;Loe dhu maroga kiu-kiu&gt;&gt;, sasoa na, &lt;&lt;era pamadha'u&gt;&gt;. Septuaginta (LXX) terjemahkan pake ungkapan &lt;&lt;...................................&gt;&gt;</note></p>
+    <p class="Line 1" usfm="q1">te ngaa ja'a madha'u boe dènge bhelu-katub'a,</p>
+    <p class="Line 2" usfm="q2">lula Ѐu, Lamatua kako bera-bera dènge ja'a.<note reference="23:4b" class="Note General Paragraph" usfm="f">Ayat 4-6 lii Ibrani pake dhèu kadua tunggal "Ѐu", sèna ka sabaj'a langsung mi Lamatua. Ѐdhi pake :Lamatua, "Ѐu" ètu ne'e, ho sèna ka pembaca sèra re'a Daud sabaj'a buli ne'e. Ladhe aad'o, dhèu pangee na Daud padhai lii dhoka lula Lamatua di.</note></p>
+    <p class="Line 1" usfm="q1">Ja'a rasa mera-milu,</p>
+    <p class="Line 2" usfm="q2">lula Lamatua nèd'u tatea dènge aj'u cèki.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />Lamatua tao pesta hia ja'a,</p>
+    <p class="Line 2" usfm="q2">buli madha musu ja'a,</p>
+    <p class="Line 3" usfm="q3">ho rèngu hud'i bisa ladhe rèdhi peka na,</p>
+    <p class="Line 3" usfm="q3">Lamatua neo padelo d'ara be'a Na mi ja'a.</p>
+    <p class="Line 1" usfm="q1">Lamatua tao èi mènyi mi kètu ja'a kahèi,</p>
+    <p class="Line 2" usfm="q2">lula Na neo padelo hormat mi ja'a</p>
+    <p class="Line 3" usfm="q3">nuka sèmi lamatua èmu dhu be'a sèmi nare tamu aa pakabua na.</p>
+    <p class="Line 1" usfm="q1">Lamatua bhori papènu galaa ja'a toke pènu,</p>
+    <p class="Line 2" usfm="q2">lula Na neo bhori mèngi-nale ae-ae hia ja'a.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Ja'a parcaya na, Lamatua neo padelo d'ara be'a Na mi ja'a,</p>
+    <p class="Line 2" usfm="q2">aa neo padelo rasa kasia Na mi ja'a,</p>
+    <p class="Line 3" usfm="q3">ropa ja'a mamuri era ètu rai-haha ne.</p>
+    <p class="Line 1" usfm="q1">Aa ja'a parcaya kahèi na, ja'a abhu era</p>
+    <p class="Line 2" usfm="q2">buli èmu Lamatua.</p>
+    <p class="Line 3" usfm="q3">Dènge sèmi èèna, ja'a neo pea taruu ètu èèna.</p>
+    <p class="Section Head" usfm="s1">Cee ka dhu bisa maso asa d'ara Ѐmu Kapua Manèngi-mangaj'i Lamatua?<note reference="24" class="Note General Paragraph" usfm="f">Lii Koa-Kio ne, liturgi èci dhu ra pake lod'o ra neo ca'e asa ledhe sèna ka maso asa d'ara èmu Paleo sabaj'a Lamatua. Jumaat se babala dènge kètu agama sèra.</note></p>
+    <p class="Paragraph" usfm="p">
+      <c n="24" />Lii Koa-kio ne, nèti Daud.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="1" />Rai-haha dènge isi na aa'i-aa'i,</p>
+    <p class="Line 2" usfm="q2">unu Lamatua.</p>
+    <p class="Line 1" usfm="q1">Rai-haha kateme dènge dhèu aa'i-aa'i,</p>
+    <p class="Line 2" usfm="q2">hud'i nanene ku Nèngu.<note reference="24:1" class="Note Cross Reference Paragraph" usfm="x">1 Korintus 10:26</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Te Nèngu kadhu tao rai mange ètu dedha dhasi,</p>
+    <p class="Line 2" usfm="q2">Nèngu ka dhu pamango ètu dedha èi<note reference="24:2" class="Note General Paragraph" usfm="f">Dhèu Ibrani pangee na, rai mango èèna taleb'o ètu dedha èi dhasi. Ladhe kahèi Lii Lolo dhu uru tèka 1:6, 9-10; 7:11; Kalua nèti Masir 20:4; Lii Koa-Kio 136:6.</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="3" />[Jumaat se karèi peka na,]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Ladhe Nèngu ka dhu tao aa'i-aa'i sèra, na, cee ka dhu dènge hak</p>
+    <p class="Line 2" usfm="q2">ca'e la'e asa ledhe LAMATUA,</p>
+    <p class="Line 3" usfm="q3">ho koa-kio hia Nèngu mi era èèna?</p>
+    <p class="Line 1" usfm="q1">Aa cee ka dhu dènge hak</p>
+    <p class="Line 2" usfm="q2">titu ètu Ѐmu mola-mèci Na,<note reference="24:3" class="Note General Paragraph" usfm="f">Madhutu dhèu d'èlu-mèu Alkitab, &lt;Ledhe unu Lamatua&gt; èèna, nuka Sion, ledhe èèna ètu Yerusalem dhu j'aj'i Ѐmu Kapua manèngi mangaj'i Ama Lamatua. Alkitab lii Ibrani suri peka na, &lt;era mola-mèci&gt;, nuka Ѐmu Kapua manèngi mangaj'i kahèi.</note></p>
+    <p class="Line 3" usfm="q3">ho manèngi mangaj'i mi Nèngu ètu era èèna?&gt;&gt;</p>
+    <fig path="Hk-lb\LB00186c.tif" rtfFormat="width:3.5.0cm;textWrapping:around;horizontalPosition:right">Kètu agama paroa nare dhèu sèna ka mai sabaj'a</fig>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />[Kètu agama sèra dhaa peka na, ]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Dhu dènge hak ho maso sabaj'a, nuka:</p>
+    <p class="Line 2" usfm="q2">dhoka rèngu di dhu d'ara mola,</p>
+    <p class="Line 2" usfm="q2">dhoka rèngu di dhu kacui-aai hera boe, (mana'u boe)</p>
+    <p class="Line 2" usfm="q2">dhoka rèngu di dhu saogo tagu boe,</p>
+    <p class="Line 2" usfm="q2">dhoka rèngu di dhu ded'e boe soo-subha omo koso.<note reference="24:4" class="Note Cross Reference Paragraph" usfm="x">Mateos 5:8</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />Dhèu sèmi sèra,</p>
+    <p class="Line 2" usfm="q2">èèna na sèmi rare mèngi nale nèti Ama LAMATUA.</p>
+    <p class="Line 1" usfm="q1">Aa dhèu dhu padame dènge Ne,</p>
+    <p class="Line 2" usfm="q2">èèna na rasa babe'a d'ara Na.</p>
+    <p class="Line 3" usfm="q3">te Nèngu ka hia mamuri mi rèngu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Tare'a! Te dhèu sèmi sèra,</p>
+    <p class="Line 2" usfm="q2">dhu dènge hak pakaboko sama-sama</p>
+    <p class="Line 3" usfm="q3">sèna ka sabaj'a mi Nèngu.</p>
+    <p class="Line 1" usfm="q1">Dhèu sèmi sèra sa,</p>
+    <p class="Line 2" usfm="q2">dhu d'èi tengee rèhu Na.</p>
+    <p class="Line 3" usfm="q3">Nèti èèna ka, ra koa-kio Lamatua Yakob.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="7" />[Jumaat se manèngi peka na,]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Nanene, ee!</p>
+    <p class="Line 1" usfm="q1">Bhoke pataleo babèdho oka dhu abhu le karèi nèti uru-uru ka!</p>
+    <p class="Line 1" usfm="q1">Aa bhoke babèdho èmu ètu Ѐmu Sabaj'a,</p>
+    <p class="Line 2" usfm="q2">ho sèna ka Dhèu Aae dhu kapai risi neo maso asa èèna.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />[Kètu agama se karèi peka na,]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Dhèu Aae dhu kapai risi èèna, cee?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">[Jumaat se dhaa na]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Nèngu èèna, LAMATUA,</p>
+    <p class="Line 2" usfm="q2">dhu èra aa dhu kuasa risi.</p>
+    <p class="Line 1" usfm="q1">Nèngu èèna, LAMATUA,</p>
+    <p class="Line 2" usfm="q2">dhu segi taruu d'ara pamusu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="9" />Bhoke pataleo babèdho oka dhu abhu le karèi nèti uru-uru ka!</p>
+    <p class="Line 1" usfm="q1">Aa bhoke babèdho èmu ètu Ѐmu Sabaj'a,</p>
+    <p class="Line 2" usfm="q2">ho sèna ka Dhèu Aae dhu kapai risi neo maso asa èèna.&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">
+      <v n="10" />[Kètu agama se karèi peka na,]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Dhèu Aae dhu kapai risi èèna, cee?&gt;&gt;</p>
+    <p class="Paragraph" usfm="p">[Jumaat se dhaa na]</p>
+    <p class="Line 1" usfm="q1">&lt;&lt;Nèngu èèna, LAMATUA,</p>
+    <p class="Line 2" usfm="q2">dhu paredha aa'i sordadu ètu sorga.</p>
+    <p class="Line 1" usfm="q1">Nèngu èèna, Dhèu Aae dhu kapai risi!</p>
+    <p class="Line 1" usfm="q1">Aa Nèngu dhu Kuasa Risi aa'i kahèi!</p>
+    <p class="Section Head" usfm="s1">Lii koa-kio dhu manèngi makasi</p>
+    <p class="Paragraph" usfm="p">
+      <c n="100" />Lii koa-kio dhu manèngi makasi</p>
+    <p class="Line 1" usfm="q1">
+      <v n="1" />Dhèu aa'i-aa'i ètu rai-haha!</p>
+    <p class="Line 1" usfm="q1">Pa'oo sama-sama,</p>
+    <p class="Line 2" usfm="q2">ho koa-kio LAMATUA.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Manèngi mangaj'i mi LAMATUA,</p>
+    <p class="Line 2" usfm="q2">dènge d'ara kare'jè.</p>
+    <p class="Line 1" usfm="q1">Mai ho patoo madha dènge Ne,</p>
+    <p class="Line 2" usfm="q2">dènge sod'a lii sod'a.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Mai ho mangaku peka na,</p>
+    <p class="Line 2" usfm="q2">LAMATUA na, Ama Lamatua.</p>
+    <p class="Line 1" usfm="q1">Te Nèngu ka dhu paj'aj'i èdhi,</p>
+    <p class="Line 2" usfm="q2">ka èdhi j'aj'i dhèu unu Na.</p>
+    <p class="Line 2" usfm="q2">Ѐdhi dhu j'aj'i dhèu unu Na.</p>
+    <p class="Line 2" usfm="q2">Aa èdhi nuka sèmi kalèbho</p>
+    <p class="Line 3" usfm="q3">dhu ra'a j'u'u ètu oka Na.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Mai ho maso re babèdho Na,</p>
+    <p class="Line 2" usfm="q2">dènge d'ara dhu manèngi makasi.</p>
+    <p class="Line 1" usfm="q1">Mai ho maso asa d'ara Ѐmu mu Na,</p>
+    <p class="Line 2" usfm="q2">ded'e padedha-dedha Na.</p>
+    <p class="Line 3" usfm="q3">Manèngi makasi mi Nèngu!</p>
+    <p class="Line 3" usfm="q3">Koa-kio kolongara Na!</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />Te LAMATUA na, d'ara be'a</p>
+    <p class="Line 2" usfm="q2">Sasue Na dènge boe too-lane</p>
+    <p class="Line 2" usfm="q2">Ngaa dhu Na peka, tatu Na tao madhutu,</p>
+    <p class="Line 3" usfm="q3">nèti ana-èpu èci asa ana èpu leo sèra.<note reference="100:5" class="Note Cross Reference Paragraph" usfm="x">1 Sejara nèti Isra'el dènge Yahuda 16:34, 2 Sejara nèti Isra'el dènge Yahuda 5:13, 7:3, Esra 3:11, Lii Sod'a Koa-Kio 106:1, 107:1, 118:1, 136:1, Yermia 33:11</note></p>
+    <p class="Section Head" usfm="s1">Lamatua na, ka dhu j'aga èdhi</p>
+    <p class="Paragraph" usfm="p">
+      <c n="121" />Lii sod'a koa kio ropa èdhi neo sabaj'a.<note reference="121" class="Note General Paragraph" usfm="f">Dhoka abhu èci di Ѐmu Kapua Manèngi mangaj'i, nuka ètu kota Yerusalem. De dhèu Yahudi nèti mia-mia hud'i lasi kaj'èu ho sabaj'a dènge tao rupa-rupa korban ètu èèna. Te korban badha sèra, dhoka hia mi Ѐmu Kapua Manèngi mangaj'i di. Nèti èèna ka dhèu ae mai nèti era kaj'èu ho sabaj'a ètu èèna. Rèngu se, ziarah, te rèngu madhutu atora agama ra. Lii sod'a koa-kio ne, dhu ra sod'a lod'o ra neo maso asa Ѐmu Kapua Manèngi mangaj'i.</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="1" />Ja'a ne, susa!</p>
+    <p class="Line 1" usfm="q1">Nèti èèna ka ja'a laladhe asa ledhe ho patangi tengee,</p>
+    <p class="Line 2" usfm="q2">hèia ja'a pakarèi peka na,</p>
+    <p class="Line 1" usfm="q1">&lt;dhu neo bara ja'a,</p>
+    <p class="Line 2" usfm="q2">èèna na na mai nèti mia?</p>
+    <p class="Line 3" usfm="q3">ele boe mai nèti nèi, do?&gt;</p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Aa te ngaa dhu neo bara ja'a na,</p>
+    <p class="Line 2" usfm="q2">mai boe nèti ledhe.</p>
+    <p class="Line 1" usfm="q1">Te dhu bara ja'a ne,</p>
+    <p class="Line 2" usfm="q2">nuka Ama LAMATUA,</p>
+    <p class="Line 3" usfm="q3">dhu tao dedha liru dènge rai-haha.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Nèngu ka dhu j'aga miu.</p>
+    <p class="Line 2" usfm="q2">Nèngu ka dhu tèke eele boe miu manahu.</p>
+    <p class="Line 3" usfm="q3">Aa j'aga dènge kaboi miu na,</p>
+    <p class="Line 3" usfm="q3">dhu parna boe bhèj'i ciki sa hèi.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Te dhu j'aga taruu suku Israe na,</p>
+    <p class="Line 2" usfm="q2">parna boe bhèj'i.</p>
+    <p class="Line 3" usfm="q3">aa dhu parna boe luu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />Tare'a! Ama LAMATUA mesa na ka dhu j'aga miu!</p>
+    <p class="Line 2" usfm="q2">Nèngu ka dhu titu ètu sebhe miu,</p>
+    <p class="Line 3" usfm="q3">ho bhiri miu,</p>
+    <p class="Line 3" usfm="q3">nuka sèmi mamaho aj'u dhu bhiri èdhi nèti lod'o pana.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Aa ladhe mèu,</p>
+    <p class="Line 2" usfm="q2">lod'o pana pakèpu boe miu.</p>
+    <p class="Line 1" usfm="q1">Aa ladhe mèd'a,</p>
+    <p class="Line 2" usfm="q2">hèru papèd'a boe miu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="7" />Te LAMATUA neo j'aga miu</p>
+    <p class="Line 2" usfm="q2">nèti bhabhèlu aa'i-aa'i;</p>
+    <p class="Line 1" usfm="q1">aa Nèngu ka dhu kaboi miu</p>
+    <p class="Line 2" usfm="q2">ho sèna ka miu mamuri mera-milu.</p>
+    <p class="Line 1" usfm="q1">
+      <v n="8" />LAMATUA j'aga ............. miu,</p>
+    <p class="Line 2" usfm="q2">ropa miu maso-kalua lami asa mia-mia,</p>
+    <p class="Line 2" usfm="q2">nèti doe ne'e, taruu,</p>
+    <p class="Line 2" usfm="q2">toke d'ai mia-mia dènge boe too-lane.</p>
+    <p class="Section Head" usfm="s1">Ded'e padedha-dedha kolongara Ama Lamatua</p>
+    <p class="Line 1" usfm="q1">
+      <c n="150" />
+      <v n="1" />Koa-kio Lamatua!</p>
+    <p class="Line 1" usfm="q1">Koa-Kio Ama Lamatua,</p>
+    <p class="Line 2" usfm="q2">ètu d'ara Ѐmu manèngi mangaj'i Na!</p>
+    <p class="Line 1" usfm="q1">Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">ètu dedha liru dhu taleo!</p>
+    <p class="Line 1" usfm="q1">
+      <v n="2" />Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">lula aa'i-aa'i dhu Na tao sèra, kapai risi!</p>
+    <p class="Line 1" usfm="q1">Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">lula kolongara Na kapai risi nèti aa'i-aa'i!</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />Koa-Kio Ne,</p>
+    <p class="Line 2" usfm="q2">dènge tiu tèbhe pamèdhu mèdhu.</p>
+    <p class="Line 1" usfm="q1">Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">pake musik, nuka sèmi sasando!</p>
+    <p class="Line 1" usfm="q1">
+      <v n="4" />Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">dènge babha, dènge roge.</p>
+    <fig path="Hk-lb\BK00174c.tif" rtfFormat="width:4.5cm;textWrapping:around;horizontalPosition:right">Alat musik</fig>
+    <p class="Line 1" usfm="q1">Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">gai sasadhu, dènge tiu sakino</p>
+    <p class="Line 1" usfm="q1">
+      <v n="5" />Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">pake dènge gong iiki!</p>
+    <p class="Line 1" usfm="q1">Koa-kio Ne,</p>
+    <p class="Line 2" usfm="q2">.......................................</p>
+    <p class="Line 1" usfm="q1">
+      <v n="6" />Aa'i-aa'i dhu dènge a'ae,............</p>
+    <p class="Line 2" usfm="q2">mai ho sod'a sama-sama,</p>
+    <p class="Line 3" usfm="q3">ho ded'e lii sod'a koa-kio mi Ama LAMATUA!</p>
+    <p class="Line 1" usfm="q1">Koa-kio LAMATUA!</p>
+  </book>
+</bible>

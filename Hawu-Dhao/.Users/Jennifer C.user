@@ -1,0 +1,4 @@
+<User username="Jennifer C" password="PuertoRico" usertype="Translator" maxWin="true" zoom="175" primaryUi="English" secondaryUi="English" DraftingBg="PowderBlue" BackTranslationBg="LightGreen" NaturalnessBg="Wheat" ConsultantBg="LightGoldenrodYellow" collaborationUserName="jennifer_perez_campbell" collaborationPassword="7iMQ1Nzg" canUndoRedo="true" canNavFirstLast="true" canDoBackTranslation="true" canDoNaturalnessCheck="true" canDoConsultantPreparation="true" canZoom="true" canOpenProject="true" canExportProject="true" canPrint="true" canFindAndReplace="true" canMakeNotes="true" noteAuthor="Jennifer C" closeNoteWindowWhenMouseLeaves="true" canDeleteNotesAuthoredByOthers="true">
+  <TranslationSettings name="Mehara" globalEditability="Full" />
+  <TranslationSettings name="Hawu" globalEditability="Full" />
+</User>

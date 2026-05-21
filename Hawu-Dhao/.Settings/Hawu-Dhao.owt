@@ -1,0 +1,5 @@
+﻿<DTeamSettings DisplayName="Hawu-Dhao" SettingsVersion="2" Copyright="Copyright © 2019 UBB" Stages="" OddLeft="3" OddMiddle="2" OddRight="1" EvenLeft="3" EvenMiddle="2" EvenRight="1" Updates="false">
+  <own Name="SFMapping">
+    <DSFMapping MainTitleBT="btmt" SubTitleBT="btst" ID="id" Header="h" HeaderBT="h" History="hist" ShoeboxRcd="rcrd" MajSect="ms" MajSectCrossRef="mr" Section="s" SectionBT="bts" Chapter="c" Verse="v" CrossRef="r" VerseText="vt" VerseTextBT="btvt" SeeAlso="cf" Footnote="ft" FootnoteBT="btft" FootLetter="fn" Comment="rem" StatusComment="chk" Copyright="cy" StyleMainTitle="mt" StyleSubTitle="st" StyleHeader="h" StyleSection="s" StyleCrossRef="r" StyleChapter="c" StyleVerse="v" StyleSeeAlso="cf" StyleFootLetter="fn" StylePicCaption="cap" StyleNoteLetter="ntc" StyleNotePara="nt"/>
+  </own>
+</DTeamSettings>
