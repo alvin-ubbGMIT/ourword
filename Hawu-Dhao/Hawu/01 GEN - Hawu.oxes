@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
   <book id="GEN" stage="Draft" version="A">
-    <p class="Header" usfm="h" />
+    <p class="Header" usfm="h">Carita Mula-Mula</p>
     <p class="Title Main" usfm="mt">Carita Mula-mula</p>
     <p class="Title Secondary" usfm="mt2">Mulai dari</p>
     <p class="Paragraph" usfm="p" />
