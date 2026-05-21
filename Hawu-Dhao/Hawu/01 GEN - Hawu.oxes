@@ -2,8 +2,8 @@
 <bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
   <book id="GEN" stage="Draft" version="A">
     <p class="Header" usfm="h" />
-    <p class="Title Main" usfm="mt" />
-    <p class="Title Secondary" usfm="mt2" />
+    <p class="Title Main" usfm="mt">Carita Mula-mula</p>
+    <p class="Title Secondary" usfm="mt2">Mulai dari</p>
     <p class="Paragraph" usfm="p" />
     <p class="Section Head" usfm="s1" />
     <p class="Paragraph" usfm="p">
