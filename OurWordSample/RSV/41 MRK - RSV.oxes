@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="MRK" stage="0" version="A">
+    <p class="Header" usfm="h">Mark</p>
+    <p class="Title Secondary" usfm="mt2">THE GOSPEL ACCORDING TO</p>
+    <p class="Title Main" usfm="mt">Mark</p>
+    <p class="Section Head" usfm="s1">John the Baptist Prepares the Way</p>
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1" />The beginning of the gospel of Jesus Christ, the Son of God.<note reference="1.1" class="Note General Paragraph" usfm="f">Other ancient authorities omit the Son of God</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />
+      <note reference="1.2-8" class="Note Cross Reference Paragraph" usfm="x">Mt 3.1-12; Lk 3.2-16; Jn 1.6,15,19-28.</note>
+      <note reference="1.2" class="Note Cross Reference Paragraph" usfm="x">Mal 3.1; Mt 11.10; Lk 7.27.</note>As it is written in Isaiah the prophet,<note reference="1.2" class="Note General Paragraph" usfm="f">Other ancient authorities read in the prophets</note></p>
+    <p class="Line 1" usfm="q1">"Behold, I send my messenger before thy face,</p>
+    <p class="Line 1" usfm="q1">who shall prepare thy way;</p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />
+      <note reference="1.3" class="Note Cross Reference Paragraph" usfm="x">Is 40.3.</note>the voice of one crying in the wilderness:</p>
+    <p class="Line 1" usfm="q1">Prepare the way of the Lord,</p>
+    <p class="Line 1" usfm="q1">make his paths straight--"</p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />
+      <note reference="1.4" class="Note Cross Reference Paragraph" usfm="x">Acts 13.24.</note>John the baptizer appeared<note reference="1.4" class="Note General Paragraph" usfm="f">Other ancient authorities read John was baptizing</note>in the wilderness, preaching a baptism of repentance for the forgiveness of sins.<v n="5" />And there went out to him all the country of Judea, and all the people of Jerusalem; and they were baptized by him in the river Jordan, confessing their sins.<v n="6" />Now John was clothed with camel's hair, and had a leather girdle around his waist, and ate locusts and wild honey.<v n="7" />And he preached, saying, "After me comes he who is mightier than I, the thong of whose sandals I am not worthy to stoop down and untie.<v n="8" />I have baptized you with water; but he will baptize you with the Holy Spirit."</p>
+    <p class="Section Head" usfm="s1">The Baptism and Temptation of Jesus</p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />
+      <note reference="1.9-11" class="Note Cross Reference Paragraph" usfm="x">Mt 3.13-17; Lk 3.21-22; Jn 1.29-34.</note>In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan.<v n="10" />And when he came up out of the water, immediately he saw the heavens opened and the Spirit descending upon him like a dove;<v n="11" /><note reference="1.11" class="Note Cross Reference Paragraph" usfm="x">Ps 2.7; Is 42.1.</note>and a voice came from heaven, "Thou art my beloved Son;<note reference="1.11" class="Note General Paragraph" usfm="f">Or my Son, my (or the) Beloved</note>with thee I am well pleased."</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />
+      <note reference="1.12-13" class="Note Cross Reference Paragraph" usfm="x">Mt 4.1-11; Lk 4.1-13.</note>The Spirit immediately drove him out into the wilderness.<v n="13" />And he was in the wilderness forty days, tempted by Satan; and he was with the wild beasts; and the angels ministered to him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />
+      <note reference="1.14-15" class="Note Cross Reference Paragraph" usfm="x">Mt 4.12-17; Lk 4.14-15.</note>Now after John was arrested, Jesus came into Galilee, preaching the gospel of God,<v n="15" />and saying, "The time is fulfilled, and the kingdom of God is at hand; repent, and believe in the gospel."</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />
+      <note reference="1.16-20" class="Note Cross Reference Paragraph" usfm="x">Mt 4.18-22; Lk 5.1-11; Jn 1.40-42.</note>And passing along by the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net in the sea; for they were fishermen.<v n="17" />And Jesus said to them, "Follow me and I will make you become fishers of men."<v n="18" />And immediately they left their nets and followed him.<v n="19" />And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets.<v n="20" />And immediately he called them; and they left their father Zebedee in the boat with the hired servants, and followed him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />
+      <note reference="1.21-22" class="Note Cross Reference Paragraph" usfm="x">Mt 7.28-29; Lk 4.31-32.</note>And they went into Caperna-um; and immediately on the sabbath he entered the synagogue and taught.<v n="22" />And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes.<v n="23" /><note reference="1.23-28" class="Note Cross Reference Paragraph" usfm="x">Lk 4.33-37.</note>And immediately there was in their synagogue a man with an unclean spirit;<v n="24" /><note reference="1.24" class="Note Cross Reference Paragraph" usfm="x">Jn 6.69.</note>and he cried out, "What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are, the Holy One of God."<v n="25" />But Jesus rebuked him, saying, "Be silent, and come out of him!"<v n="26" />And the unclean spirit, convulsing him and crying with a loud voice, came out of him.<v n="27" />And they were all amazed, so that they questioned among themselves, saying, "What is this? A new teaching! With authority he commands even the unclean spirits, and they obey him."<v n="28" />And at once his fame spread everywhere throughout all the surrounding region of Galilee.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />
+      <note reference="1.29-31" class="Note Cross Reference Paragraph" usfm="x">Mt 8.14-15; Lk 4.38-39.</note>And immediately he<note reference="1.29" class="Note General Paragraph" usfm="f">Other ancient authorities read they</note>left the synagogue, and entered the house of Simon and Andrew, with James and John.<v n="30" />Now Simon's mother-in-law lay sick with a fever, and immediately they told him of her.<v n="31" />And he came and took her by the hand and lifted her up, and the fever left her; and she served them.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />
+      <note reference="1.32-34" class="Note Cross Reference Paragraph" usfm="x">Mt 8.16-17; Lk 4.40-41.</note>That evening, at sundown, they brought to him all who were sick or possessed with demons.<v n="33" />And the whole city was gathered together about the door.<v n="34" />And he healed many who were sick with various diseases, and cast out many demons; and he would not permit the demons to speak, because they knew him.</p>
+    <p class="Section Head" usfm="s1">Jesus Prays in a Solitary Place</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />
+      <note reference="1.35-38" class="Note Cross Reference Paragraph" usfm="x">Lk 4.42-43.</note>And in the morning, a great while before day, he rose and went out to a lonely place, and there he prayed.<v n="36" />And Simon and those who were with him pursued him,<v n="37" />and they found him and said to him, "Every one is searching for you."<v n="38" />And he said to them, "Let us go on to the next towns, that I may preach there also; for that is why I came out."<v n="39" /><note reference="1.39" class="Note Cross Reference Paragraph" usfm="x">Mt 4.23-25; Lk 4.44.</note>And he went throughout all Galilee, preaching in their synagogues and casting out demons.</p>
+    <p class="Section Head" usfm="s1">A Man With Leprosy</p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />
+      <note reference="1.40-45" class="Note Cross Reference Paragraph" usfm="x">Mt 8.2-4; Lk 5.12-16.</note>And a leper came to him beseeching him, and kneeling said to him, "If you will, you can make me clean."<v n="41" />Moved with pity, he stretched out his hand and touched him, and said to him, "I will; be clean."<v n="42" />And immediately the leprosy left him, and he was made clean.<v n="43" />And he sternly charged him, and sent him away at once,<v n="44" /><note reference="1.44" class="Note Cross Reference Paragraph" usfm="x">Lev 13.49; 14.2-32.</note>and said to him, "See that you say nothing to any one; but go, show yourself to the priest, and offer for your cleansing what Moses commanded, for a proof to the people."<note reference="1.44" class="Note General Paragraph" usfm="f">Greek to them</note><v n="45" />But he went out and began to talk freely about it, and to spread the news, so that Jesus<note reference="1.45" class="Note General Paragraph" usfm="f">Greek he</note>could no longer openly enter a town, but was out in the country; and people came to him from every quarter.</p>
+    <p class="Section Head" usfm="s1">Jesus Heals a Paralytic</p>
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />And when he returned to Caperna-um after some days, it was reported that he was at home.<v n="2" />And many were gathered together, so that there was no longer room for them, not even about the door; and he was preaching the word to them.<v n="3" /><note reference="2.3-12" class="Note Cross Reference Paragraph" usfm="x">Mt 9.2-8; Lk 5.18-26.</note>And they came, bringing to him a paralytic carried by four men.<v n="4" />And when they could not get near him because of the crowd, they removed the roof above him; and when they had made an opening, they let down the pallet on which the paralytic lay.<v n="5" />And when Jesus saw their faith, he said to the paralytic, "My son, your sins are forgiven."<v n="6" />Now some of the scribes were sitting there, questioning in their hearts,<v n="7" />"Why does this man speak thus? It is blasphemy! Who can forgive sins but God alone?"<v n="8" />And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, "Why do you question thus in your hearts?<v n="9" />Which is easier, to say to the paralytic, "Your sins are forgiven," or to say, "Rise, take up your pallet and walk"?<v n="10" />But that you may know that the Son of man has authority on earth to forgive sins"--he said to the paralytic --<v n="11" />"I say to you, rise, take up your pallet and go home."<v n="12" /><note reference="2.12" class="Note Cross Reference Paragraph" usfm="x">Mt 9.33.</note>And he rose, and immediately took up the pallet and went out before them all; so that they were all amazed and glorified God, saying, "We never saw anything like this!"</p>
+    <p class="Section Head" usfm="s1">The Calling of Levi</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />He went out again beside the sea; and all the crowd gathered about him, and he taught them.<v n="14" /><note reference="2.14-17" class="Note Cross Reference Paragraph" usfm="x">Mt 9.9-13; Lk 5.27-32.</note>And as he passed on, he saw Levi the son of Alphaeus sitting at the tax office, and he said to him, "Follow me." And he rose and followed him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />And as he sat at table in his house, many tax collectors and sinners were sitting with Jesus and his disciples; for there were many who followed him.<v n="16" /><note reference="2.16" class="Note Cross Reference Paragraph" usfm="x">Acts 23.9.</note>And the scribes of<note reference="2.16" class="Note General Paragraph" usfm="f">Other ancient authorities read and</note>the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, "Why does he eat<note reference="2.16" class="Note General Paragraph" usfm="f">Other ancient authorities add and drink</note>with tax collectors and sinners?"<v n="17" />And when Jesus heard it, he said to them, "Those who are well have no need of a physician, but those who are sick; I came not to call the righteous, but sinners."</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />
+      <note reference="2.18-22" class="Note Cross Reference Paragraph" usfm="x">Mt 9.14-17; Lk 5.33-38.</note>Now John's disciples and the Pharisees were fasting; and people came and said to him, "Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?"<v n="19" />And Jesus said to them, "Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast.<v n="20" /><note reference="2.20" class="Note Cross Reference Paragraph" usfm="x">Lk 17.22.</note>The days will come, when the bridegroom is taken away from them, and then they will fast in that day.<v n="21" />No one sews a piece of unshrunk cloth on an old garment; if he does, the patch tears away from it, the new from the old, and a worse tear is made.<v n="22" />And no one puts new wine into old wineskins; if he does, the wine will burst the skins, and the wine is lost, and so are the skins; but new wine is for fresh skins."<note reference="2.22" class="Note General Paragraph" usfm="f">Other ancient authorities omit but new wine is for fresh skins</note></p>
+    <p class="Section Head" usfm="s1">Lord of the Sabbath</p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />
+      <note reference="2.23-28" class="Note Cross Reference Paragraph" usfm="x">Mt 12.1-8; Lk 6.1-5.</note>
+      <note reference="2.23" class="Note Cross Reference Paragraph" usfm="x">Deut 23.25.</note>One sabbath he was going through the grainfields; and as they made their way his disciples began to pluck heads of grain.<v n="24" />And the Pharisees said to him, "Look, why are they doing what is not lawful on the sabbath?"<v n="25" />And he said to them, "Have you never read what David did, when he was in need and was hungry, he and those who were with him:<v n="26" /><note reference="2.26:1" class="Note Cross Reference Paragraph" usfm="x">Sam 21.1-6; 2 Sam 8.17.</note>how he entered the house of God, when Abiathar was high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?"<v n="27" /><note reference="2.27" class="Note Cross Reference Paragraph" usfm="x">Ex 23.12; Deut 5.14.</note>And he said to them, "The sabbath was made for man, not man for the sabbath;<v n="28" />so the Son of man is lord even of the sabbath."</p>
+  </book>
+</bible>

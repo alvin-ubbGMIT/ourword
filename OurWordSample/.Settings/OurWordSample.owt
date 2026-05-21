@@ -1,0 +1,14 @@
+﻿<DTeamSettings DisplayName="OurWordSample" SettingsVersion="1" Copyright="Copyright © 2009." Stages="" OddLeft="1" OddMiddle="2" OddRight="3" EvenLeft="3" EvenMiddle="2" EvenRight="5">
+  <ownseq Name="BookGroupings">
+    <DBookGrouping LocKey="Pentateuch" English="Pentateuch" BookAbbrevs="5 {GEN} {EXO} {LEV} {NUM} {DEU}"/>
+    <DBookGrouping LocKey="Historical" English="Historical" BookAbbrevs="12 {JOS} {JDG} {RUT} {1SA} {2SA} {1KI} {2KI} {1CH} {2CH} {EZR} {NEH} {EST}"/>
+    <DBookGrouping LocKey="Poetical" English="Poetical" BookAbbrevs="5 {JOB} {PSA} {PRO} {ECC} {SNG}"/>
+    <DBookGrouping LocKey="Prophetic" English="Prophetic" BookAbbrevs="17 {ISA} {JER} {LAM} {EZK} {DAN} {HOS} {JOL} {AMO} {OBA} {JON} {MIC} {NAM} {HAB} {ZEP} {HAG} {ZEC} {MAL}"/>
+    <DBookGrouping LocKey="Gospels" English="Gospels" BookAbbrevs="4 {MAT} {MRK} {LUK} {JHN}"/>
+    <DBookGrouping LocKey="PaulineLetters" English="Pauline Letters" BookAbbrevs="13 {ROM} {1CO} {2CO} {GAL} {EPH} {PHP} {COL} {1TH} {2TH} {1TI} {2TI} {TIT} {PHM}"/>
+    <DBookGrouping LocKey="GeneralLetters" English="General Letters" BookAbbrevs="8 {HEB} {JAS} {1PE} {2PE} {1JN} {2JN} {3JN} {JUD}"/>
+  </ownseq>
+  <own Name="SFMapping">
+    <DSFMapping MainTitleBT="btmt" SubTitleBT="btst" ID="id" Header="h" HeaderBT="h" History="hist" ShoeboxRcd="rcrd" MajSect="ms" MajSectCrossRef="mr" Section="s" SectionBT="bts" Chapter="c" Verse="v" CrossRef="r" VerseText="vt" VerseTextBT="btvt" SeeAlso="cf" Footnote="ft" FootnoteBT="btft" FootLetter="fn" Comment="rem" StatusComment="chk" Copyright="cy" StyleMainTitle="mt" StyleSubTitle="st" StyleHeader="h" StyleSection="s" StyleCrossRef="r" StyleChapter="c" StyleVerse="v" StyleSeeAlso="cf" StyleFootLetter="fn" StylePicCaption="cap" StyleNoteLetter="ntc" StyleNotePara="nt"/>
+  </own>
+</DTeamSettings>

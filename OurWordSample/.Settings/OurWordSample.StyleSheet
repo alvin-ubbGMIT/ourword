@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<StyleSheet Version="1">
+  <Styles>
+    <CharacterStyle Name="Chapter Number" Color="Black" FontName="Arial" FontSize="20" FontStyle="Bold">
+      <Font WritingSystem="Latin" Name="Arial" Size="20" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="20" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="20" Style="Bold" />
+    </CharacterStyle>
+    <CharacterStyle Name="Footnote Letter" Color="Navy" FontName="Arial" FontSize="8">
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+    </CharacterStyle>
+    <CharacterStyle Name="Header in Window Panes" Color="Black" FontName="Arial" FontSize="12" FontStyle="Bold">
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+    </CharacterStyle>
+    <CharacterStyle Name="Label" Color="Crimson" FontName="Arial" FontSize="10">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </CharacterStyle>
+    <CharacterStyle Name="Verse Number" Color="Red" FontName="Arial" FontSize="8">
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+      <Font WritingSystem="Latin" Name="Arial" Size="8" />
+    </CharacterStyle>
+    <ParagraphStyle Name="Caption" Color="Black" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Footnote" Color="Black" FontName="Arial" FontSize="10" Before="0" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Header" Color="Black" FontName="Arial" FontSize="10" FontStyle="Bold" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 1" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 2" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.4" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line 3" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.6" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Line Centered" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0.2" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Literate Attention" Color="DarkRed" FontName="Arial" FontSize="8" FontStyle="Bold" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified" />
+    <ParagraphStyle Name="Literate Heading" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="6" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified" />
+    <ParagraphStyle Name="Literate List" Color="Black" FontName="Arial" FontSize="8" Before="0" After="0" FirstLineIndent="0" LeftMargin="0.2" RightMargin="0" Bulleted="true" Alignment="Justified" />
+    <ParagraphStyle Name="Literate Paragraph" Color="Black" FontName="Arial" FontSize="8" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified" />
+    <ParagraphStyle Name="Major Section Head" Color="Black" FontName="Arial" FontSize="14" FontStyle="Bold" Before="12" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="14" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Major Section Range" Color="Black" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Paragraph" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Paragraph Continuation" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Parallel Passage Reference" Color="Black" FontName="Arial" FontSize="10" FontStyle="Italic" Before="0" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" Style="Italic" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Reference Translation" Color="Black" FontName="Arial" FontSize="10" Before="0" After="6" FirstLineIndent="-0.2" LeftMargin="0.2" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Section Head" Color="Black" FontName="Arial" FontSize="12" FontStyle="Bold" Before="12" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Section Head 2" Color="Black" FontName="Arial" FontSize="12" FontStyle="Bold" Before="9" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="12" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Content" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="0" After="0" FirstLineIndent="0" LeftMargin="0.1" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="9" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Header" Color="Black" FontName="Arial" FontSize="10" Before="0" After="0" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Left">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Note Discussion" Color="Black" FontName="Arial" FontSize="10" Before="3" After="3" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="10" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Tip Text" Color="Black" FontName="Arial" FontSize="9" FontStyle="Bold" Before="5" After="0" FirstLineIndent="0" LeftMargin="0" RightMargin="0" Alignment="Justified">
+      <Font WritingSystem="Latin" Name="Arial" Size="9" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Title Main" Color="Black" FontName="Arial" FontSize="16" FontStyle="Bold" Before="0" After="9" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="16" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="16" Style="Bold" />
+    </ParagraphStyle>
+    <ParagraphStyle Name="Title Secondary" Color="Black" FontName="Arial" FontSize="14" FontStyle="Bold" Before="0" After="9" FirstLineIndent="0" LeftMargin="0" RightMargin="0" KeepWithNext="true" Alignment="Centered">
+      <Font WritingSystem="Latin" Name="Arial" Size="14" Style="Bold" />
+      <Font WritingSystem="Latin" Name="Arial" Size="14" Style="Bold" />
+    </ParagraphStyle>
+  </Styles>
+  <WritingSystems>
+    <WritingSystem Name="Latin" Punct="“‘.,;:&lt;&gt;?!()[]’”" EndPunct=".&gt;?!)],:;’”" Consonants="bcdfghjklmnpqrstvwxyz" AutoHyphCV="V-C" AutoHyphMinSplit="3" AutoReplaceSource="20 {`a} {`A} {`e} {`E} {`i} {`I} {`o} {`O} {`u} {`U} {^a} {^A} {^e} {^E} {^i} {^I} {^o} {^O} {^u} {^U}" AutoReplaceResult="20 {à} {À} {è} {È} {ì} {Ì} {ò} {Ò} {ù} {Ù} {á} {Á} {é} {É} {í} {Í} {ó} {Ó} {ú} {Ú}" />
+  </WritingSystems>
+</StyleSheet>

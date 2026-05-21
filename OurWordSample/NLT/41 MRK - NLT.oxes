@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<bible xml:lang="bko" backtTranslaltionDefaultLanguage="en" oxes="2.0">
+  <book id="MRK" stage="0" version="A">
+    <p class="Header" usfm="h">MRK</p>
+    <p class="Title Main" usfm="mt">Mark</p>
+    <p class="Section Head" usfm="s1">John the Baptist Prepares the Way</p>
+    <p class="Paragraph" usfm="p">
+      <c n="1" />
+      <v n="1" />Here begins the Good News about Jesus the Messiah, the Son of God.<note reference="1:1" class="Note General Paragraph" usfm="f">Some manuscripts do not include the Son of God.</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="2" />In the book of the prophet Isaiah, God said,</p>
+    <p class="Line 1" usfm="q1">Look, I am sending my messenger before you,</p>
+    <p class="Line 2" usfm="q2">and he will prepare your way.<note reference="1:2" class="Note Cross Reference Paragraph" usfm="x">MAL 3.1 .</note></p>
+    <p class="Line 1" usfm="q1">
+      <v n="3" />He is a voice shouting in the wilderness:</p>
+    <p class="Line 1" usfm="q1">Prepare a pathway for the Lord's coming!</p>
+    <p class="Line 2" usfm="q2">Make a straight road for him!<note reference="1:3" class="Note Cross Reference Paragraph" usfm="x">ISA 40.3.</note></p>
+    <p class="Paragraph" usfm="p">
+      <v n="4" />This messenger was John the Baptist. He lived in the wilderness and was preaching that people should be baptized to show that they had turned from their sins and turned to God to be forgiven.<note reference="1:4" class="Note General Paragraph" usfm="f">Greek preaching a baptism of repentance for the forgiveness of sins.</note><v n="5" />People from Jerusalem and from all over Judea traveled out into the wilderness to see and hear John. And when they confessed their sins, he baptized them in the Jordan River.<v n="6" />His clothes were woven from camel hair, and he wore a leather belt; his food was locusts and wild honey.<v n="7" />He announced: Someone is coming soon who is far greater than I am--so much greater that I am not even worthy to be his slave.<note reference="1:7" class="Note General Paragraph" usfm="f">Greek to stoop down and untie his sandals.</note><v n="8" />I baptize you with<note reference="1:8" class="Note General Paragraph" usfm="f">Or in.</note>water, but he will baptize you with the Holy Spirit!</p>
+    <p class="Section Head" usfm="s1">The Baptism of Jesus</p>
+    <p class="Paragraph" usfm="p">
+      <v n="9" />One day Jesus came from Nazareth in Galilee, and he was baptized by John in the Jordan River.<v n="10" />And when Jesus came up out of the water, he saw the heavens split open and the Holy Spirit descending like a dove on him.<v n="11" />And a voice came from heaven saying, You are my beloved Son, and I am fully pleased with you.</p>
+    <p class="Section Head" usfm="s1">The Temptation of Jesus</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />Immediately the Holy Spirit compelled Jesus to go into the wilderness.<v n="13" />He was there for forty days, being tempted by Satan. He was out among the wild animals, and angels took care of him.</p>
+    <p class="Section Head" usfm="s1">The First Disciples</p>
+    <p class="Paragraph" usfm="p">
+      <v n="14" />Later on, after John was arrested by Herod Antipas, Jesus went to Galilee to preach God's Good News.<v n="15" />At last the time has come! he announced. The Kingdom of God is near! Turn from your sins and believe this Good News!</p>
+    <p class="Paragraph" usfm="p">
+      <v n="16" />One day as Jesus was walking along the shores of the Sea of Galilee, he saw Simon<note reference="1:16" class="Note General Paragraph" usfm="f">Simonis called Peterin MRK 3.16 and thereafter.</note>and his brother, Andrew, fishing with a net, for they were commercial fishermen.<v n="17" />Jesus called out to them, Come, be my disciples, and I will show you how to fish for people!<v n="18" />And they left their nets at once and went with him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />A little farther up the shore Jesus saw Zebedee's sons, James and John, in a boat mending their nets.<v n="20" />He called them, too, and immediately they left their father, Zebedee, in the boat with the hired men and went with him.</p>
+    <p class="Section Head" usfm="s1">Jesus Casts Out an Evil Spirit</p>
+    <p class="Paragraph" usfm="p">
+      <v n="21" />Jesus and his companions went to the town of Capernaum, and every Sabbath day he went into the synagogue and taught the people.<v n="22" />They were amazed at his teaching, for he taught as one who had real authority--quite unlike the teachers of religious law.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />A man possessed by an evil spirit was in the synagogue,<v n="24" />and he began shouting, Why are you bothering us, Jesus of Nazareth? Have you come to destroy us? I know who you are--the Holy One sent from God!</p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />Jesus cut him short. Be silent! Come out of the man.<v n="26" />At that, the evil spirit screamed and threw the man into a convulsion, but then he left him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="27" />Amazement gripped the audience, and they began to discuss what had happened. What sort of new teaching is this? they asked excitedly. It has such authority! Even evil spirits obey his orders!<v n="28" />The news of what he had done spread quickly through that entire area of Galilee.</p>
+    <p class="Section Head" usfm="s1">Jesus Heals Many People</p>
+    <p class="Paragraph" usfm="p">
+      <v n="29" />After Jesus and his disciples left the synagogue, they went over to Simon and Andrew's home, and James and John were with them.<v n="30" />Simon's mother-in-law was sick in bed with a high fever. They told Jesus about her right away.<v n="31" />He went to her bedside, and as he took her by the hand and helped her to sit up, the fever suddenly left, and she got up and prepared a meal for them.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="32" />That evening at sunset, many sick and demon-possessed people were brought to Jesus.<v n="33" />And a huge crowd of people from all over Capernaum gathered outside the door to watch.<v n="34" />So Jesus healed great numbers of sick people who had many different kinds of diseases, and he ordered many demons to come out of their victims. But because they knew who he was, he refused to allow the demons to speak.</p>
+    <p class="Section Head" usfm="s1">Jesus Preaches in Galilee</p>
+    <p class="Paragraph" usfm="p">
+      <v n="35" />The next morning Jesus awoke long before daybreak and went out alone into the wilderness to pray.<v n="36" />Later Simon and the others went out to find him.<v n="37" />They said, Everyone is asking for you.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="38" />But he replied, We must go on to other towns as well, and I will preach to them, too, because that is why I came.<v n="39" />So he traveled throughout the region of Galilee, preaching in the synagogues and expelling demons from many people.</p>
+    <p class="Section Head" usfm="s1">Jesus Heals a Man with Leprosy</p>
+    <p class="Paragraph" usfm="p">
+      <v n="40" />A man with leprosy came and knelt in front of Jesus, begging to be healed. If you want to, you can make me well again, he said.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="41" />Moved with pity,<note reference="1:41" class="Note General Paragraph" usfm="f">Some manuscripts read Moved with anger.</note>Jesus touched him. I want to, he said. Be healed!<v n="42" />Instantly the leprosy disappeared--the man was healed.<v n="43" />Then Jesus sent him on his way and told him sternly,<v n="44" />Go right over to the priest and let him examine you. Don't talk to anyone along the way. Take along the offering required in the law of Moses for those who have been healed of leprosy, so everyone will have proof of your healing.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="45" />But as the man went on his way, he spread the news, telling everyone what had happened to him. As a result, such crowds soon surrounded Jesus that he couldn't enter a town anywhere publicly. He had to stay out in the secluded places, and people from everywhere came to him there.</p>
+    <p class="Section Head" usfm="s1">Jesus Heals a Paralyzed Man</p>
+    <p class="Paragraph" usfm="p">
+      <c n="2" />
+      <v n="1" />Several days later Jesus returned to Capernaum, and the news of his arrival spread quickly through the town.<v n="2" />Soon the house where he was staying was so packed with visitors that there wasn't room for one more person, not even outside the door. And he preached the word to them.<v n="3" />Four men arrived carrying a paralyzed man on a mat.<v n="4" />They couldn't get to Jesus through the crowd, so they dug through the clay roof above his head. Then they lowered the sick man on his mat, right down in front of Jesus.<v n="5" />Seeing their faith, Jesus said to the paralyzed man, My son, your sins are forgiven.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="6" />But some of the teachers of religious law who were sitting there said to themselves,<v n="7" />What? This is blasphemy! Who but God can forgive sins!</p>
+    <p class="Paragraph" usfm="p">
+      <v n="8" />Jesus knew what they were discussing among themselves, so he said to them, Why do you think this is blasphemy?<v n="9" />Is it easier to say to the paralyzed man, Your sins are forgiven or Get up, pick up your mat, and walk?<v n="10" />I will prove that I, the Son of Man, have the authority on earth to forgive sins. Then Jesus turned to the paralyzed man and said,<v n="11" />Stand up, take your mat, and go on home, because you are healed!</p>
+    <p class="Paragraph" usfm="p">
+      <v n="12" />The man jumped up, took the mat, and pushed his way through the stunned onlookers. Then they all praised God. We've never seen anything like this before! they exclaimed.</p>
+    <p class="Section Head" usfm="s1">Jesus Calls Levi (Matthew)</p>
+    <p class="Paragraph" usfm="p">
+      <v n="13" />Then Jesus went out to the lakeshore again and taught the crowds that gathered around him.<v n="14" />As he walked along, he saw Levi son of Alphaeus sitting at his tax-collection booth. Come, be my disciple, Jesus said to him. So Levi got up and followed him.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="15" />That night Levi invited Jesus and his disciples to be his dinner guests, along with his fellow tax collectors and many other notorious sinners. (There were many people of this kind among the crowds that followed Jesus.)<v n="16" />But when some of the teachers of religious law who were Pharisees<note reference="2:16a" class="Note General Paragraph" usfm="f">Greek the scribes of the Pharisees.</note>saw him eating with people like that, they said to his disciples, Why does he eat with such scum<note reference="2:16b" class="Note General Paragraph" usfm="f">Greek with tax collectors and sinners.</note>?</p>
+    <p class="Paragraph" usfm="p">
+      <v n="17" />When Jesus heard this, he told them, Healthy people don't need a doctor--sick people do. I have come to call sinners, not those who think they are already good enough.</p>
+    <p class="Section Head" usfm="s1">A Discussion about Fasting</p>
+    <p class="Paragraph" usfm="p">
+      <v n="18" />John's disciples and the Pharisees sometimes fasted. One day some people came to Jesus and asked, Why do John's disciples and the Pharisees fast, but your disciples don't fast?</p>
+    <p class="Paragraph" usfm="p">
+      <v n="19" />Jesus replied, Do wedding guests fast while celebrating with the groom? Of course not. They can't fast while they are with the groom.<v n="20" />But someday he will be taken away from them, and then they will fast.<v n="21" />And who would patch an old garment with unshrunk cloth? For the new patch shrinks and pulls away from the old cloth, leaving an even bigger hole than before.<v n="22" />And no one puts new wine into old wineskins. The wine would burst the wineskins, spilling the wine and ruining the skins. New wine needs new wineskins.</p>
+    <p class="Section Head" usfm="s1">A Discussion about the Sabbath</p>
+    <p class="Paragraph" usfm="p">
+      <v n="23" />One Sabbath day as Jesus was walking through some grainfields, his disciples began breaking off heads of wheat.<v n="24" />But the Pharisees said to Jesus, They shouldn't be doing that! It's against the law to work by harvesting grain on the Sabbath.</p>
+    <p class="Paragraph" usfm="p">
+      <v n="25" />But Jesus replied, Haven't you ever read in the Scriptures what King David did when he and his companions were hungry?<v n="26" />He went into the house of God (during the days when Abiathar was high priest), ate the special bread reserved for the priests alone, and then gave some to his companions. That was breaking the law, too.<v n="27" />Then he said to them, The Sabbath was made to benefit people, and not people to benefit the Sabbath.<v n="28" />And I, the Son of Man, am master even of the Sabbath!</p>
+  </book>
+</bible>
